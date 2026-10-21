@@ -1,0 +1,1176 @@
+customer_id,recency,frequency,monetary,segment_id,segment_name,is_premium
+C0001,14,4,512.85,0,Occasional Regulars,0
+C0002,28,7,4644.9,1,Premium Big-Spenders,1
+C0003,7,22,3644.85,2,Frequent Everyday Shoppers,0
+C0004,0,5,369.0,0,Occasional Regulars,0
+C0005,147,2,324.0,3,Dormant Low-Value,0
+C0006,34,1,90.0,0,Occasional Regulars,0
+C0007,3,18,2600.0,2,Frequent Everyday Shoppers,0
+C0008,3,15,3096.5,2,Frequent Everyday Shoppers,0
+C0009,19,11,8424.8,1,Premium Big-Spenders,1
+C0010,66,4,450.0,0,Occasional Regulars,0
+C0011,2,21,3583.85,2,Frequent Everyday Shoppers,0
+C0012,74,4,3395.3,3,Dormant Low-Value,0
+C0013,125,3,726.0,3,Dormant Low-Value,0
+C0014,22,8,8006.9,1,Premium Big-Spenders,1
+C0015,71,3,718.8,3,Dormant Low-Value,0
+C0016,22,3,3546.0,0,Occasional Regulars,0
+C0017,8,5,7521.7,1,Premium Big-Spenders,1
+C0018,4,3,206.55,0,Occasional Regulars,0
+C0019,61,3,955.0,0,Occasional Regulars,0
+C0020,7,17,4257.55,2,Frequent Everyday Shoppers,0
+C0021,0,4,5344.400000000001,1,Premium Big-Spenders,1
+C0022,38,1,190.0,0,Occasional Regulars,0
+C0023,92,3,616.0,3,Dormant Low-Value,0
+C0024,8,2,2766.0,0,Occasional Regulars,0
+C0025,18,7,756.1,0,Occasional Regulars,0
+C0026,10,18,4756.55,2,Frequent Everyday Shoppers,0
+C0027,14,5,1562.75,0,Occasional Regulars,0
+C0028,7,7,486.0,0,Occasional Regulars,0
+C0030,46,1,159.6,0,Occasional Regulars,0
+C0031,1,18,2254.6,2,Frequent Everyday Shoppers,0
+C0032,46,4,363.8,0,Occasional Regulars,0
+C0033,4,18,3133.25,2,Frequent Everyday Shoppers,0
+C0034,1,21,4437.0,2,Frequent Everyday Shoppers,0
+C0035,6,5,6493.8,1,Premium Big-Spenders,1
+C0036,8,2,234.0,0,Occasional Regulars,0
+C0038,71,1,48.0,3,Dormant Low-Value,0
+C0039,17,15,3601.55,2,Frequent Everyday Shoppers,0
+C0040,39,3,251.5,0,Occasional Regulars,0
+C0041,144,1,285.0,3,Dormant Low-Value,0
+C0042,89,2,138.6,3,Dormant Low-Value,0
+C0043,23,1,245.0,0,Occasional Regulars,0
+C0044,2,18,3020.1,2,Frequent Everyday Shoppers,0
+C0045,5,10,9230.9,1,Premium Big-Spenders,1
+C0046,83,3,505.4,3,Dormant Low-Value,0
+C0047,114,1,258.0,3,Dormant Low-Value,0
+C0048,31,4,704.5,0,Occasional Regulars,0
+C0049,20,17,2726.25,2,Frequent Everyday Shoppers,0
+C0050,4,19,3207.3,2,Frequent Everyday Shoppers,0
+C0051,13,22,5705.7,2,Frequent Everyday Shoppers,0
+C0052,21,10,1551.9,0,Occasional Regulars,0
+C0053,148,2,448.5,3,Dormant Low-Value,0
+C0054,102,5,1501.35,3,Dormant Low-Value,0
+C0055,161,1,112.0,3,Dormant Low-Value,0
+C0056,18,4,513.0,0,Occasional Regulars,0
+C0057,15,1,285.0,0,Occasional Regulars,0
+C0058,0,19,2988.25,2,Frequent Everyday Shoppers,0
+C0059,8,21,2896.55,2,Frequent Everyday Shoppers,0
+C0060,6,6,6058.4,1,Premium Big-Spenders,1
+C0061,0,16,2248.25,2,Frequent Everyday Shoppers,0
+C0062,10,10,1641.0,0,Occasional Regulars,0
+C0063,2,20,4660.7,2,Frequent Everyday Shoppers,0
+C0064,45,6,548.85,0,Occasional Regulars,0
+C0065,22,23,2624.95,2,Frequent Everyday Shoppers,0
+C0066,2,23,3901.35,2,Frequent Everyday Shoppers,0
+C0067,8,3,316.05,0,Occasional Regulars,0
+C0068,27,21,2733.8,2,Frequent Everyday Shoppers,0
+C0069,148,1,294.0,3,Dormant Low-Value,0
+C0070,40,17,2917.95,2,Frequent Everyday Shoppers,0
+C0071,3,9,2337.9,0,Occasional Regulars,0
+C0072,8,23,5137.95,2,Frequent Everyday Shoppers,0
+C0073,0,17,2736.4,2,Frequent Everyday Shoppers,0
+C0074,3,27,3636.4,2,Frequent Everyday Shoppers,0
+C0075,9,18,3600.5,2,Frequent Everyday Shoppers,0
+C0076,9,3,789.8,0,Occasional Regulars,0
+C0077,84,1,150.0,3,Dormant Low-Value,0
+C0078,7,16,3320.45,2,Frequent Everyday Shoppers,0
+C0079,15,4,603.2,0,Occasional Regulars,0
+C0080,2,24,3903.55,2,Frequent Everyday Shoppers,0
+C0081,12,17,2992.85,2,Frequent Everyday Shoppers,0
+C0082,2,8,12856.2,1,Premium Big-Spenders,1
+C0083,34,15,2164.95,2,Frequent Everyday Shoppers,0
+C0084,5,22,5021.1,2,Frequent Everyday Shoppers,0
+C0085,107,3,463.25,3,Dormant Low-Value,0
+C0086,1,17,2085.5,2,Frequent Everyday Shoppers,0
+C0087,77,2,302.5,3,Dormant Low-Value,0
+C0088,9,12,2122.1,2,Frequent Everyday Shoppers,0
+C0089,1,19,2971.3,2,Frequent Everyday Shoppers,0
+C0090,37,4,661.3,0,Occasional Regulars,0
+C0091,16,7,1291.0,0,Occasional Regulars,0
+C0092,1,21,3143.25,2,Frequent Everyday Shoppers,0
+C0094,18,20,4154.25,2,Frequent Everyday Shoppers,0
+C0095,43,7,1389.2,0,Occasional Regulars,0
+C0096,6,19,3692.8,2,Frequent Everyday Shoppers,0
+C0097,89,1,132.0,3,Dormant Low-Value,0
+C0098,4,8,8151.2,1,Premium Big-Spenders,1
+C0099,135,1,84.0,3,Dormant Low-Value,0
+C0100,1,16,2513.05,2,Frequent Everyday Shoppers,0
+C0101,19,20,2859.9,2,Frequent Everyday Shoppers,0
+C0102,31,4,4325.0,1,Premium Big-Spenders,1
+C0103,19,2,184.8,0,Occasional Regulars,0
+C0104,5,11,2670.7,2,Frequent Everyday Shoppers,0
+C0105,36,2,350.0,0,Occasional Regulars,0
+C0106,124,1,219.3,3,Dormant Low-Value,0
+C0107,34,2,309.0,0,Occasional Regulars,0
+C0108,7,28,5449.7,2,Frequent Everyday Shoppers,0
+C0109,55,4,676.4,0,Occasional Regulars,0
+C0110,127,2,190.55,3,Dormant Low-Value,0
+C0111,28,4,452.75,0,Occasional Regulars,0
+C0112,24,3,912.8,0,Occasional Regulars,0
+C0113,25,3,357.3,0,Occasional Regulars,0
+C0114,107,3,960.9,3,Dormant Low-Value,0
+C0116,21,2,78.85,0,Occasional Regulars,0
+C0117,158,1,157.5,3,Dormant Low-Value,0
+C0118,10,11,1890.85,0,Occasional Regulars,0
+C0119,5,21,3135.4,2,Frequent Everyday Shoppers,0
+C0121,71,3,527.4,3,Dormant Low-Value,0
+C0122,22,2,173.4,0,Occasional Regulars,0
+C0123,4,15,1980.8,2,Frequent Everyday Shoppers,0
+C0124,3,18,3236.95,2,Frequent Everyday Shoppers,0
+C0125,7,15,2023.25,2,Frequent Everyday Shoppers,0
+C0126,4,25,4231.1,2,Frequent Everyday Shoppers,0
+C0127,46,3,726.5,0,Occasional Regulars,0
+C0128,4,17,2886.05,2,Frequent Everyday Shoppers,0
+C0129,112,2,407.4,3,Dormant Low-Value,0
+C0130,18,8,9422.4,1,Premium Big-Spenders,1
+C0131,44,18,3015.05,2,Frequent Everyday Shoppers,0
+C0132,173,1,60.0,3,Dormant Low-Value,0
+C0133,23,5,4746.05,1,Premium Big-Spenders,1
+C0134,1,21,4683.5,2,Frequent Everyday Shoppers,0
+C0135,21,3,688.0,0,Occasional Regulars,0
+C0136,3,4,5101.3,1,Premium Big-Spenders,1
+C0137,25,4,374.4,0,Occasional Regulars,0
+C0138,14,1,300.0,0,Occasional Regulars,0
+C0139,9,14,2481.55,2,Frequent Everyday Shoppers,0
+C0140,5,22,4171.55,2,Frequent Everyday Shoppers,0
+C0141,41,3,446.0,0,Occasional Regulars,0
+C0142,18,14,3427.25,2,Frequent Everyday Shoppers,0
+C0143,10,18,3757.9500000000003,2,Frequent Everyday Shoppers,0
+C0144,7,21,5565.35,2,Frequent Everyday Shoppers,0
+C0145,19,2,414.8,0,Occasional Regulars,0
+C0146,6,12,2475.3,2,Frequent Everyday Shoppers,0
+C0147,34,9,10028.8,1,Premium Big-Spenders,1
+C0148,9,27,4854.5,2,Frequent Everyday Shoppers,0
+C0149,7,18,5229.2,2,Frequent Everyday Shoppers,0
+C0150,48,3,248.4,0,Occasional Regulars,0
+C0152,87,6,4456.549999999999,3,Dormant Low-Value,0
+C0153,53,1,80.75,0,Occasional Regulars,0
+C0154,1,19,4720.85,2,Frequent Everyday Shoppers,0
+C0155,20,1,539.1,0,Occasional Regulars,0
+C0156,76,1,280.0,3,Dormant Low-Value,0
+C0157,32,3,446.4,0,Occasional Regulars,0
+C0158,31,4,686.75,0,Occasional Regulars,0
+C0159,15,23,3759.3,2,Frequent Everyday Shoppers,0
+C0160,21,23,5436.9,2,Frequent Everyday Shoppers,0
+C0161,59,3,708.2,0,Occasional Regulars,0
+C0162,25,6,4685.5,1,Premium Big-Spenders,1
+C0163,39,6,5321.25,1,Premium Big-Spenders,1
+C0164,35,15,3594.4,2,Frequent Everyday Shoppers,0
+C0165,42,2,480.5,0,Occasional Regulars,0
+C0166,48,4,2901.25,0,Occasional Regulars,0
+C0167,14,5,9212.65,1,Premium Big-Spenders,1
+C0168,4,14,2751.5,2,Frequent Everyday Shoppers,0
+C0169,30,5,1192.3,0,Occasional Regulars,0
+C0170,22,21,4940.35,2,Frequent Everyday Shoppers,0
+C0171,72,4,956.6,3,Dormant Low-Value,0
+C0172,115,1,108.0,3,Dormant Low-Value,0
+C0173,1,18,3070.75,2,Frequent Everyday Shoppers,0
+C0174,107,2,483.2,3,Dormant Low-Value,0
+C0175,3,21,3853.85,2,Frequent Everyday Shoppers,0
+C0176,6,15,2644.9,2,Frequent Everyday Shoppers,0
+C0177,108,2,357.0,3,Dormant Low-Value,0
+C0178,57,3,2028.55,0,Occasional Regulars,0
+C0179,2,15,1906.7,2,Frequent Everyday Shoppers,0
+C0180,63,2,728.4,0,Occasional Regulars,0
+C0181,15,8,5513.1,1,Premium Big-Spenders,1
+C0182,13,21,3087.05,2,Frequent Everyday Shoppers,0
+C0183,80,5,836.2,3,Dormant Low-Value,0
+C0184,42,4,3626.6000000000004,0,Occasional Regulars,0
+C0185,9,3,2166.7,0,Occasional Regulars,0
+C0186,46,3,2070.8,0,Occasional Regulars,0
+C0187,26,14,3207.8,2,Frequent Everyday Shoppers,0
+C0188,43,7,6888.200000000001,1,Premium Big-Spenders,1
+C0189,19,3,508.8,0,Occasional Regulars,0
+C0190,0,24,4489.3,2,Frequent Everyday Shoppers,0
+C0191,4,9,2052.95,0,Occasional Regulars,0
+C0192,8,16,3131.2,2,Frequent Everyday Shoppers,0
+C0193,4,17,3404.15,2,Frequent Everyday Shoppers,0
+C0194,21,3,461.5,0,Occasional Regulars,0
+C0195,25,4,410.5,0,Occasional Regulars,0
+C0196,4,5,2440.7,0,Occasional Regulars,0
+C0197,2,18,3484.5,2,Frequent Everyday Shoppers,0
+C0198,42,2,1172.4,0,Occasional Regulars,0
+C0199,27,4,671.5,0,Occasional Regulars,0
+C0200,12,15,3092.95,2,Frequent Everyday Shoppers,0
+C0201,6,17,2169.3,2,Frequent Everyday Shoppers,0
+C0202,7,24,2980.15,2,Frequent Everyday Shoppers,0
+C0203,34,5,934.1,0,Occasional Regulars,0
+C0204,59,3,266.8,0,Occasional Regulars,0
+C0205,8,22,3472.5,2,Frequent Everyday Shoppers,0
+C0206,34,4,693.4000000000001,0,Occasional Regulars,0
+C0207,13,7,1208.5,0,Occasional Regulars,0
+C0208,0,16,3754.0,2,Frequent Everyday Shoppers,0
+C0209,2,25,5817.8,2,Frequent Everyday Shoppers,0
+C0210,26,9,809.65,0,Occasional Regulars,0
+C0211,33,5,3565.85,0,Occasional Regulars,0
+C0212,22,6,6972.1,1,Premium Big-Spenders,1
+C0213,4,22,3556.0,2,Frequent Everyday Shoppers,0
+C0214,31,3,233.7,0,Occasional Regulars,0
+C0215,65,2,512.0,0,Occasional Regulars,0
+C0216,12,22,4662.35,2,Frequent Everyday Shoppers,0
+C0217,14,4,3700.3,0,Occasional Regulars,0
+C0218,9,21,3508.65,2,Frequent Everyday Shoppers,0
+C0219,44,3,315.5,0,Occasional Regulars,0
+C0220,2,29,4713.35,2,Frequent Everyday Shoppers,0
+C0221,37,4,1201.3,0,Occasional Regulars,0
+C0222,64,1,252.0,0,Occasional Regulars,0
+C0223,93,2,114.0,3,Dormant Low-Value,0
+C0224,67,5,2434.0,0,Occasional Regulars,0
+C0225,99,3,393.0,3,Dormant Low-Value,0
+C0226,35,4,366.5,0,Occasional Regulars,0
+C0227,1,33,4652.55,2,Frequent Everyday Shoppers,0
+C0228,29,2,253.0,0,Occasional Regulars,0
+C0229,1,19,2949.35,2,Frequent Everyday Shoppers,0
+C0230,2,6,7286.950000000001,1,Premium Big-Spenders,1
+C0231,124,2,466.1,3,Dormant Low-Value,0
+C0232,9,18,2569.6,2,Frequent Everyday Shoppers,0
+C0233,47,4,1903.05,0,Occasional Regulars,0
+C0234,45,4,780.0,0,Occasional Regulars,0
+C0235,25,4,464.95,0,Occasional Regulars,0
+C0236,38,4,596.6,0,Occasional Regulars,0
+C0237,21,2,211.8,0,Occasional Regulars,0
+C0238,0,10,7255.9,1,Premium Big-Spenders,1
+C0239,35,3,213.3,0,Occasional Regulars,0
+C0240,3,20,3389.1,2,Frequent Everyday Shoppers,0
+C0241,4,22,3435.5,2,Frequent Everyday Shoppers,0
+C0242,1,19,4084.9,2,Frequent Everyday Shoppers,0
+C0243,2,29,6082.3,2,Frequent Everyday Shoppers,0
+C0244,23,16,1964.5,2,Frequent Everyday Shoppers,0
+C0245,19,3,1097.0,0,Occasional Regulars,0
+C0246,7,19,2611.9,2,Frequent Everyday Shoppers,0
+C0247,9,21,2608.45,2,Frequent Everyday Shoppers,0
+C0248,0,25,4147.75,2,Frequent Everyday Shoppers,0
+C0249,5,2,186.25,0,Occasional Regulars,0
+C0250,5,5,2762.7,0,Occasional Regulars,0
+C0251,31,20,3646.6,2,Frequent Everyday Shoppers,0
+C0252,3,15,3303.2,2,Frequent Everyday Shoppers,0
+C0253,37,4,938.8,0,Occasional Regulars,0
+C0254,77,4,307.15,3,Dormant Low-Value,0
+C0255,0,28,5182.0,2,Frequent Everyday Shoppers,0
+C0256,4,20,3011.75,2,Frequent Everyday Shoppers,0
+C0257,36,3,237.3,0,Occasional Regulars,0
+C0258,9,21,3025.55,2,Frequent Everyday Shoppers,0
+C0259,69,5,959.0,0,Occasional Regulars,0
+C0260,8,11,2403.0,2,Frequent Everyday Shoppers,0
+C0261,4,17,1609.6,2,Frequent Everyday Shoppers,0
+C0262,70,3,739.0,3,Dormant Low-Value,0
+C0263,22,19,4997.2,2,Frequent Everyday Shoppers,0
+C0264,47,4,3994.25,0,Occasional Regulars,0
+C0265,3,5,610.7,0,Occasional Regulars,0
+C0266,174,1,15.0,3,Dormant Low-Value,0
+C0267,24,7,12210.25,1,Premium Big-Spenders,1
+C0268,4,17,2702.45,2,Frequent Everyday Shoppers,0
+C0269,45,2,717.5,0,Occasional Regulars,0
+C0270,12,15,2992.6,2,Frequent Everyday Shoppers,0
+C0271,31,4,7488.3,1,Premium Big-Spenders,1
+C0272,5,17,2569.9,2,Frequent Everyday Shoppers,0
+C0273,74,5,903.5,3,Dormant Low-Value,0
+C0274,156,1,2698.2,3,Dormant Low-Value,0
+C0275,40,11,1986.9,0,Occasional Regulars,0
+C0276,115,2,114.0,3,Dormant Low-Value,0
+C0277,166,1,54.0,3,Dormant Low-Value,0
+C0278,73,3,1534.5,3,Dormant Low-Value,0
+C0279,59,2,250.0,0,Occasional Regulars,0
+C0280,6,4,2505.75,0,Occasional Regulars,0
+C0281,36,19,2379.15,2,Frequent Everyday Shoppers,0
+C0282,9,26,3686.85,2,Frequent Everyday Shoppers,0
+C0283,59,2,408.0,0,Occasional Regulars,0
+C0284,50,2,730.0,0,Occasional Regulars,0
+C0285,103,3,210.0,3,Dormant Low-Value,0
+C0286,9,4,838.0,0,Occasional Regulars,0
+C0287,3,20,3364.05,2,Frequent Everyday Shoppers,0
+C0288,16,2,283.2,0,Occasional Regulars,0
+C0289,0,15,3277.75,2,Frequent Everyday Shoppers,0
+C0290,3,24,4178.2,2,Frequent Everyday Shoppers,0
+C0291,22,11,13742.6,1,Premium Big-Spenders,1
+C0292,64,3,1012.0,0,Occasional Regulars,0
+C0293,0,17,3024.05,2,Frequent Everyday Shoppers,0
+C0294,22,22,4064.45,2,Frequent Everyday Shoppers,0
+C0295,61,2,100.19999999999999,0,Occasional Regulars,0
+C0296,62,2,2767.1,0,Occasional Regulars,0
+C0297,5,14,2289.0,2,Frequent Everyday Shoppers,0
+C0298,1,22,4419.9,2,Frequent Everyday Shoppers,0
+C0299,4,6,5147.3,1,Premium Big-Spenders,1
+C0300,39,4,4099.75,0,Occasional Regulars,0
+C0301,118,2,573.5,3,Dormant Low-Value,0
+C0302,39,4,854.2,0,Occasional Regulars,0
+C0303,19,6,3390.15,0,Occasional Regulars,0
+C0304,41,3,360.25,0,Occasional Regulars,0
+C0305,9,22,3921.0,2,Frequent Everyday Shoppers,0
+C0306,13,3,1308.2,0,Occasional Regulars,0
+C0307,85,2,361.2,3,Dormant Low-Value,0
+C0308,28,6,10750.8,1,Premium Big-Spenders,1
+C0309,0,25,4565.6,2,Frequent Everyday Shoppers,0
+C0310,37,1,329.4,0,Occasional Regulars,0
+C0311,38,7,3751.4,0,Occasional Regulars,0
+C0312,14,8,6095.2,1,Premium Big-Spenders,1
+C0313,4,17,2799.1,2,Frequent Everyday Shoppers,0
+C0314,8,19,3198.0,2,Frequent Everyday Shoppers,0
+C0315,18,10,1982.1,0,Occasional Regulars,0
+C0316,7,4,4045.0,0,Occasional Regulars,0
+C0317,8,21,3834.4,2,Frequent Everyday Shoppers,0
+C0318,82,3,475.8,3,Dormant Low-Value,0
+C0319,137,1,180.0,3,Dormant Low-Value,0
+C0320,1,5,2861.2,0,Occasional Regulars,0
+C0321,52,2,285.8,0,Occasional Regulars,0
+C0322,2,17,4808.8,2,Frequent Everyday Shoppers,0
+C0323,77,1,116.0,3,Dormant Low-Value,0
+C0324,14,5,6142.8,1,Premium Big-Spenders,1
+C0325,27,4,1338.4,0,Occasional Regulars,0
+C0326,51,14,2018.0,2,Frequent Everyday Shoppers,0
+C0327,10,21,3265.4,2,Frequent Everyday Shoppers,0
+C0328,62,2,331.5,0,Occasional Regulars,0
+C0329,25,3,2395.0,0,Occasional Regulars,0
+C0330,12,4,268.65,0,Occasional Regulars,0
+C0331,23,6,5584.450000000001,1,Premium Big-Spenders,1
+C0332,44,9,11806.4,1,Premium Big-Spenders,1
+C0333,154,1,718.2,3,Dormant Low-Value,0
+C0334,4,18,1992.75,2,Frequent Everyday Shoppers,0
+C0335,37,4,6720.9,1,Premium Big-Spenders,1
+C0336,3,6,641.7,0,Occasional Regulars,0
+C0337,18,15,1810.35,2,Frequent Everyday Shoppers,0
+C0338,8,18,4391.25,2,Frequent Everyday Shoppers,0
+C0339,12,2,245.8,0,Occasional Regulars,0
+C0340,70,1,314.1,3,Dormant Low-Value,0
+C0341,11,27,4376.05,2,Frequent Everyday Shoppers,0
+C0342,3,19,3631.15,2,Frequent Everyday Shoppers,0
+C0343,0,7,1323.5,0,Occasional Regulars,0
+C0344,2,19,3167.7,2,Frequent Everyday Shoppers,0
+C0345,2,20,2623.2,2,Frequent Everyday Shoppers,0
+C0346,6,20,3038.55,2,Frequent Everyday Shoppers,0
+C0347,10,7,3426.85,0,Occasional Regulars,0
+C0348,2,33,6014.35,2,Frequent Everyday Shoppers,0
+C0349,26,3,249.0,0,Occasional Regulars,0
+C0350,1,4,782.3,0,Occasional Regulars,0
+C0351,21,2,1396.0,0,Occasional Regulars,0
+C0352,19,25,3557.0,2,Frequent Everyday Shoppers,0
+C0353,8,19,2431.25,2,Frequent Everyday Shoppers,0
+C0355,7,25,4024.0,2,Frequent Everyday Shoppers,0
+C0356,140,2,538.0,3,Dormant Low-Value,0
+C0357,23,5,1021.1,0,Occasional Regulars,0
+C0358,17,3,796.8,0,Occasional Regulars,0
+C0359,21,22,4627.9,2,Frequent Everyday Shoppers,0
+C0360,19,12,2648.05,2,Frequent Everyday Shoppers,0
+C0361,81,5,4377.6,3,Dormant Low-Value,0
+C0362,5,3,903.75,0,Occasional Regulars,0
+C0364,47,3,730.5,0,Occasional Regulars,0
+C0365,71,2,96.0,3,Dormant Low-Value,0
+C0366,66,1,33.6,0,Occasional Regulars,0
+C0367,3,16,1982.5,2,Frequent Everyday Shoppers,0
+C0368,24,4,709.0,0,Occasional Regulars,0
+C0369,9,8,7070.849999999999,1,Premium Big-Spenders,1
+C0370,26,18,3019.05,2,Frequent Everyday Shoppers,0
+C0371,2,20,4242.05,2,Frequent Everyday Shoppers,0
+C0372,0,6,4981.0,1,Premium Big-Spenders,1
+C0373,54,3,926.0,0,Occasional Regulars,0
+C0374,2,7,1600.0,0,Occasional Regulars,0
+C0375,16,7,5177.25,1,Premium Big-Spenders,1
+C0376,67,3,536.3,0,Occasional Regulars,0
+C0377,74,4,980.6,3,Dormant Low-Value,0
+C0378,7,19,4015.25,2,Frequent Everyday Shoppers,0
+C0379,50,4,1002.1,0,Occasional Regulars,0
+C0380,6,6,5810.6,1,Premium Big-Spenders,1
+C0381,0,21,3692.3,2,Frequent Everyday Shoppers,0
+C0382,8,23,4624.9,2,Frequent Everyday Shoppers,0
+C0383,20,19,3733.1,2,Frequent Everyday Shoppers,0
+C0384,18,26,6207.9,2,Frequent Everyday Shoppers,0
+C0385,3,11,2253.2,2,Frequent Everyday Shoppers,0
+C0386,12,2,906.6,0,Occasional Regulars,0
+C0387,155,1,700.0,3,Dormant Low-Value,0
+C0388,5,12,1683.95,2,Frequent Everyday Shoppers,0
+C0389,7,4,2634.35,0,Occasional Regulars,0
+C0390,117,3,604.0,3,Dormant Low-Value,0
+C0391,59,3,1063.2,0,Occasional Regulars,0
+C0392,20,16,2692.75,2,Frequent Everyday Shoppers,0
+C0393,49,4,870.1,0,Occasional Regulars,0
+C0394,54,9,3233.3,0,Occasional Regulars,0
+C0395,41,4,412.7,0,Occasional Regulars,0
+C0396,1,17,2504.25,2,Frequent Everyday Shoppers,0
+C0397,77,3,288.5,3,Dormant Low-Value,0
+C0398,23,16,2661.85,2,Frequent Everyday Shoppers,0
+C0399,129,1,272.0,3,Dormant Low-Value,0
+C0400,1,23,5759.9,2,Frequent Everyday Shoppers,0
+C0401,50,2,190.7,0,Occasional Regulars,0
+C0402,10,5,2374.0,0,Occasional Regulars,0
+C0403,1,5,1045.25,0,Occasional Regulars,0
+C0404,53,4,707.6,0,Occasional Regulars,0
+C0405,61,4,1208.2,0,Occasional Regulars,0
+C0406,20,3,911.8000000000001,0,Occasional Regulars,0
+C0407,70,8,9945.849999999999,1,Premium Big-Spenders,1
+C0408,8,24,3353.5,2,Frequent Everyday Shoppers,0
+C0409,13,11,1924.55,0,Occasional Regulars,0
+C0410,45,7,4762.45,1,Premium Big-Spenders,1
+C0411,25,20,2756.15,2,Frequent Everyday Shoppers,0
+C0413,8,3,299.2,0,Occasional Regulars,0
+C0414,41,4,740.5,0,Occasional Regulars,0
+C0415,38,3,1244.6000000000001,0,Occasional Regulars,0
+C0416,29,19,3647.15,2,Frequent Everyday Shoppers,0
+C0417,6,24,3776.75,2,Frequent Everyday Shoppers,0
+C0418,174,1,399.0,3,Dormant Low-Value,0
+C0419,78,4,1682.9,3,Dormant Low-Value,0
+C0420,1,28,4532.75,2,Frequent Everyday Shoppers,0
+C0421,46,3,1414.0,0,Occasional Regulars,0
+C0422,162,2,682.0,3,Dormant Low-Value,0
+C0423,80,1,116.0,3,Dormant Low-Value,0
+C0424,46,7,9292.3,1,Premium Big-Spenders,1
+C0425,54,3,744.0,0,Occasional Regulars,0
+C0426,23,11,10377.1,1,Premium Big-Spenders,1
+C0427,35,4,697.0,0,Occasional Regulars,0
+C0428,2,23,4445.3,2,Frequent Everyday Shoppers,0
+C0429,20,13,1145.1,0,Occasional Regulars,0
+C0430,5,6,420.9,0,Occasional Regulars,0
+C0431,7,20,2468.95,2,Frequent Everyday Shoppers,0
+C0432,0,23,4913.95,2,Frequent Everyday Shoppers,0
+C0433,43,8,2878.0,0,Occasional Regulars,0
+C0434,17,2,542.5,0,Occasional Regulars,0
+C0435,6,28,6485.1,2,Frequent Everyday Shoppers,0
+C0436,161,3,2295.25,3,Dormant Low-Value,0
+C0437,110,3,813.6,3,Dormant Low-Value,0
+C0438,21,4,1226.1,0,Occasional Regulars,0
+C0439,13,2,213.0,0,Occasional Regulars,0
+C0440,1,2,328.3,0,Occasional Regulars,0
+C0441,4,19,2522.75,2,Frequent Everyday Shoppers,0
+C0442,7,4,2144.3500000000004,0,Occasional Regulars,0
+C0443,9,3,987.2,0,Occasional Regulars,0
+C0444,5,16,4874.3,2,Frequent Everyday Shoppers,0
+C0445,6,4,1070.95,0,Occasional Regulars,0
+C0446,29,19,3106.15,2,Frequent Everyday Shoppers,0
+C0447,21,28,4645.5,2,Frequent Everyday Shoppers,0
+C0448,148,2,463.5,3,Dormant Low-Value,0
+C0449,66,3,1310.5,0,Occasional Regulars,0
+C0450,94,5,4323.15,3,Dormant Low-Value,0
+C0451,24,4,3295.7,0,Occasional Regulars,0
+C0452,4,4,1319.3,0,Occasional Regulars,0
+C0453,86,4,2081.25,3,Dormant Low-Value,0
+C0454,54,6,8447.65,1,Premium Big-Spenders,1
+C0455,71,4,1975.8000000000002,3,Dormant Low-Value,0
+C0456,4,17,3393.1,2,Frequent Everyday Shoppers,0
+C0457,7,7,6115.200000000001,1,Premium Big-Spenders,1
+C0458,139,5,892.35,3,Dormant Low-Value,0
+C0459,15,5,979.0,0,Occasional Regulars,0
+C0460,2,15,2286.5,2,Frequent Everyday Shoppers,0
+C0462,4,21,3852.35,2,Frequent Everyday Shoppers,0
+C0463,122,1,208.0,3,Dormant Low-Value,0
+C0464,3,3,663.5,0,Occasional Regulars,0
+C0465,24,3,379.2,0,Occasional Regulars,0
+C0466,23,3,972.5,0,Occasional Regulars,0
+C0467,16,3,744.0,0,Occasional Regulars,0
+C0468,110,3,180.6,3,Dormant Low-Value,0
+C0469,1,23,4102.4,2,Frequent Everyday Shoppers,0
+C0470,17,8,5170.4,1,Premium Big-Spenders,1
+C0471,46,6,7889.799999999999,1,Premium Big-Spenders,1
+C0472,7,18,2983.95,2,Frequent Everyday Shoppers,0
+C0473,178,1,45.0,3,Dormant Low-Value,0
+C0474,11,16,2231.35,2,Frequent Everyday Shoppers,0
+C0475,116,1,36.0,3,Dormant Low-Value,0
+C0476,54,6,6361.85,1,Premium Big-Spenders,1
+C0478,23,4,480.0,0,Occasional Regulars,0
+C0479,20,7,6497.4,1,Premium Big-Spenders,1
+C0480,6,14,3982.6,2,Frequent Everyday Shoppers,0
+C0481,144,1,193.5,3,Dormant Low-Value,0
+C0482,3,4,875.1999999999999,0,Occasional Regulars,0
+C0483,46,10,4126.0,1,Premium Big-Spenders,1
+C0484,112,4,662.0,3,Dormant Low-Value,0
+C0485,12,13,1796.95,2,Frequent Everyday Shoppers,0
+C0486,95,2,393.0,3,Dormant Low-Value,0
+C0487,33,3,292.9,0,Occasional Regulars,0
+C0488,8,11,13187.5,1,Premium Big-Spenders,1
+C0489,0,18,2706.4,2,Frequent Everyday Shoppers,0
+C0490,1,19,3835.75,2,Frequent Everyday Shoppers,0
+C0491,10,20,3192.15,2,Frequent Everyday Shoppers,0
+C0492,6,27,5191.5,2,Frequent Everyday Shoppers,0
+C0493,6,3,3968.55,0,Occasional Regulars,0
+C0494,21,15,1999.15,2,Frequent Everyday Shoppers,0
+C0495,41,1,73.5,0,Occasional Regulars,0
+C0496,25,5,3230.8999999999996,0,Occasional Regulars,0
+C0497,21,4,3471.25,0,Occasional Regulars,0
+C0498,2,17,2803.9,2,Frequent Everyday Shoppers,0
+C0499,62,2,278.8,0,Occasional Regulars,0
+C0501,88,1,69.6,3,Dormant Low-Value,0
+C0502,18,14,2305.25,2,Frequent Everyday Shoppers,0
+C0503,0,18,3419.1,2,Frequent Everyday Shoppers,0
+C0504,113,2,154.0,3,Dormant Low-Value,0
+C0505,30,11,1784.9,0,Occasional Regulars,0
+C0506,44,5,3102.45,0,Occasional Regulars,0
+C0507,90,1,209.0,3,Dormant Low-Value,0
+C0508,15,13,2892.35,2,Frequent Everyday Shoppers,0
+C0509,3,5,5703.65,1,Premium Big-Spenders,1
+C0510,2,22,3385.9,2,Frequent Everyday Shoppers,0
+C0511,22,2,776.0,0,Occasional Regulars,0
+C0512,71,5,11617.65,1,Premium Big-Spenders,1
+C0513,84,3,505.5,3,Dormant Low-Value,0
+C0514,36,4,1256.25,0,Occasional Regulars,0
+C0515,85,5,1327.2,3,Dormant Low-Value,0
+C0516,0,21,3642.3500000000004,2,Frequent Everyday Shoppers,0
+C0517,7,1,90.25,0,Occasional Regulars,0
+C0518,82,3,245.75,3,Dormant Low-Value,0
+C0519,25,6,4674.35,1,Premium Big-Spenders,1
+C0520,23,5,3051.7,0,Occasional Regulars,0
+C0521,8,5,1976.05,0,Occasional Regulars,0
+C0522,38,4,855.5,0,Occasional Regulars,0
+C0523,12,17,2805.55,2,Frequent Everyday Shoppers,0
+C0524,43,7,7961.4,1,Premium Big-Spenders,1
+C0525,30,7,12719.7,1,Premium Big-Spenders,1
+C0526,1,4,508.05,0,Occasional Regulars,0
+C0527,5,24,6047.7,2,Frequent Everyday Shoppers,0
+C0528,115,1,28.8,3,Dormant Low-Value,0
+C0529,25,13,1264.4,0,Occasional Regulars,0
+C0530,16,25,4825.9,2,Frequent Everyday Shoppers,0
+C0531,8,21,3799.95,2,Frequent Everyday Shoppers,0
+C0532,87,1,80.75,3,Dormant Low-Value,0
+C0533,30,7,6870.7,1,Premium Big-Spenders,1
+C0534,5,7,990.0,0,Occasional Regulars,0
+C0535,66,3,469.5,0,Occasional Regulars,0
+C0536,11,20,3285.8,2,Frequent Everyday Shoppers,0
+C0537,3,20,3988.0,2,Frequent Everyday Shoppers,0
+C0538,2,15,2739.1,2,Frequent Everyday Shoppers,0
+C0539,12,23,3920.85,2,Frequent Everyday Shoppers,0
+C0540,8,18,3255.0499999999997,2,Frequent Everyday Shoppers,0
+C0541,89,1,38.25,3,Dormant Low-Value,0
+C0542,24,2,169.5,0,Occasional Regulars,0
+C0543,13,9,11195.1,1,Premium Big-Spenders,1
+C0544,6,18,2674.85,2,Frequent Everyday Shoppers,0
+C0545,13,1,127.5,0,Occasional Regulars,0
+C0546,22,12,2269.35,2,Frequent Everyday Shoppers,0
+C0547,4,22,3180.8,2,Frequent Everyday Shoppers,0
+C0548,0,25,5386.55,2,Frequent Everyday Shoppers,0
+C0549,2,3,389.0,0,Occasional Regulars,0
+C0550,1,12,2855.2,2,Frequent Everyday Shoppers,0
+C0551,13,3,1280.25,0,Occasional Regulars,0
+C0552,41,2,488.0,0,Occasional Regulars,0
+C0553,13,7,6945.1,1,Premium Big-Spenders,1
+C0554,16,13,2887.5,2,Frequent Everyday Shoppers,0
+C0555,12,15,3199.4,2,Frequent Everyday Shoppers,0
+C0556,29,5,1598.2,0,Occasional Regulars,0
+C0557,7,10,7527.8,1,Premium Big-Spenders,1
+C0558,47,13,1627.35,0,Occasional Regulars,0
+C0559,2,18,2762.65,2,Frequent Everyday Shoppers,0
+C0560,17,8,1147.75,0,Occasional Regulars,0
+C0561,2,17,2757.5,2,Frequent Everyday Shoppers,0
+C0562,7,3,1537.7,0,Occasional Regulars,0
+C0563,27,3,4116.4,0,Occasional Regulars,0
+C0564,4,17,3626.8,2,Frequent Everyday Shoppers,0
+C0565,47,4,4399.65,1,Premium Big-Spenders,1
+C0566,23,4,769.9,0,Occasional Regulars,0
+C0567,4,22,2127.4,2,Frequent Everyday Shoppers,0
+C0568,40,2,88.8,0,Occasional Regulars,0
+C0569,25,5,643.4,0,Occasional Regulars,0
+C0570,6,22,3339.4,2,Frequent Everyday Shoppers,0
+C0571,39,4,1950.95,0,Occasional Regulars,0
+C0572,57,4,497.35,0,Occasional Regulars,0
+C0573,75,5,1221.9,3,Dormant Low-Value,0
+C0574,4,23,3256.4,2,Frequent Everyday Shoppers,0
+C0575,0,15,3115.7,2,Frequent Everyday Shoppers,0
+C0576,9,2,383.2,0,Occasional Regulars,0
+C0577,9,5,5138.4,1,Premium Big-Spenders,1
+C0578,56,3,1064.75,0,Occasional Regulars,0
+C0579,6,13,1983.55,2,Frequent Everyday Shoppers,0
+C0580,6,17,2881.15,2,Frequent Everyday Shoppers,0
+C0581,110,2,387.3,3,Dormant Low-Value,0
+C0582,90,3,2775.8,3,Dormant Low-Value,0
+C0583,10,16,2651.3,2,Frequent Everyday Shoppers,0
+C0584,46,4,943.5,0,Occasional Regulars,0
+C0585,4,14,1956.75,2,Frequent Everyday Shoppers,0
+C0586,39,1,247.0,0,Occasional Regulars,0
+C0587,2,26,4184.8,2,Frequent Everyday Shoppers,0
+C0588,18,6,6344.1,1,Premium Big-Spenders,1
+C0589,8,18,3246.15,2,Frequent Everyday Shoppers,0
+C0590,25,2,270.2,0,Occasional Regulars,0
+C0591,14,19,2530.85,2,Frequent Everyday Shoppers,0
+C0592,7,23,3862.25,2,Frequent Everyday Shoppers,0
+C0593,17,11,1057.1,0,Occasional Regulars,0
+C0594,21,26,3719.8,2,Frequent Everyday Shoppers,0
+C0595,4,18,2532.3,2,Frequent Everyday Shoppers,0
+C0596,7,26,4031.7,2,Frequent Everyday Shoppers,0
+C0597,3,21,3267.6,2,Frequent Everyday Shoppers,0
+C0598,5,4,597.75,0,Occasional Regulars,0
+C0599,16,3,353.25,0,Occasional Regulars,0
+C0600,3,8,5292.65,1,Premium Big-Spenders,1
+C0601,40,2,204.0,0,Occasional Regulars,0
+C0602,121,2,164.4,3,Dormant Low-Value,0
+C0603,90,2,331.20000000000005,3,Dormant Low-Value,0
+C0604,0,19,4975.9,2,Frequent Everyday Shoppers,0
+C0605,61,4,685.0,0,Occasional Regulars,0
+C0606,22,17,3362.9,2,Frequent Everyday Shoppers,0
+C0608,98,1,280.0,3,Dormant Low-Value,0
+C0609,31,26,4752.65,2,Frequent Everyday Shoppers,0
+C0610,142,2,4497.0,3,Dormant Low-Value,0
+C0611,1,11,2703.55,2,Frequent Everyday Shoppers,0
+C0612,1,7,981.6,0,Occasional Regulars,0
+C0613,3,18,2580.5,2,Frequent Everyday Shoppers,0
+C0614,20,1,21.75,0,Occasional Regulars,0
+C0615,5,12,1970.2,2,Frequent Everyday Shoppers,0
+C0616,72,3,2518.6000000000004,3,Dormant Low-Value,0
+C0617,48,2,61.0,0,Occasional Regulars,0
+C0618,14,2,74.0,0,Occasional Regulars,0
+C0619,14,3,3554.0,0,Occasional Regulars,0
+C0620,11,22,3356.0,2,Frequent Everyday Shoppers,0
+C0621,9,2,366.0,0,Occasional Regulars,0
+C0622,52,5,785.0,0,Occasional Regulars,0
+C0623,86,1,245.0,3,Dormant Low-Value,0
+C0624,43,6,1049.6,0,Occasional Regulars,0
+C0626,13,19,3236.8,2,Frequent Everyday Shoppers,0
+C0627,15,7,5244.9,1,Premium Big-Spenders,1
+C0628,22,2,158.0,0,Occasional Regulars,0
+C0629,0,24,3514.9,2,Frequent Everyday Shoppers,0
+C0630,45,4,649.1,0,Occasional Regulars,0
+C0631,58,7,3931.25,0,Occasional Regulars,0
+C0632,4,3,517.0,0,Occasional Regulars,0
+C0633,1,23,4300.1,2,Frequent Everyday Shoppers,0
+C0634,40,1,255.0,0,Occasional Regulars,0
+C0635,76,4,292.2,3,Dormant Low-Value,0
+C0636,2,19,2754.7,2,Frequent Everyday Shoppers,0
+C0637,86,1,80.75,3,Dormant Low-Value,0
+C0638,3,18,2777.15,2,Frequent Everyday Shoppers,0
+C0639,29,19,4103.4,2,Frequent Everyday Shoppers,0
+C0640,0,23,3545.2,2,Frequent Everyday Shoppers,0
+C0641,13,24,4045.4,2,Frequent Everyday Shoppers,0
+C0642,33,2,548.0,0,Occasional Regulars,0
+C0643,0,9,1088.4,0,Occasional Regulars,0
+C0644,1,22,3976.9,2,Frequent Everyday Shoppers,0
+C0645,6,4,512.25,0,Occasional Regulars,0
+C0646,0,20,2775.5,2,Frequent Everyday Shoppers,0
+C0647,3,5,2106.0,0,Occasional Regulars,0
+C0648,60,1,142.5,0,Occasional Regulars,0
+C0649,38,3,1131.4,0,Occasional Regulars,0
+C0650,6,21,3955.75,2,Frequent Everyday Shoppers,0
+C0651,20,3,1610.75,0,Occasional Regulars,0
+C0652,6,2,191.0,0,Occasional Regulars,0
+C0653,41,9,8764.1,1,Premium Big-Spenders,1
+C0655,40,2,121.8,0,Occasional Regulars,0
+C0656,4,17,2959.9,2,Frequent Everyday Shoppers,0
+C0657,1,3,496.0,0,Occasional Regulars,0
+C0658,30,3,185.5,0,Occasional Regulars,0
+C0659,4,10,8321.8,1,Premium Big-Spenders,1
+C0660,76,2,300.0,3,Dormant Low-Value,0
+C0661,73,5,558.5,3,Dormant Low-Value,0
+C0662,8,3,175.1,0,Occasional Regulars,0
+C0663,12,16,2786.55,2,Frequent Everyday Shoppers,0
+C0664,30,21,3332.95,2,Frequent Everyday Shoppers,0
+C0665,9,6,6817.5,1,Premium Big-Spenders,1
+C0666,15,18,3008.0,2,Frequent Everyday Shoppers,0
+C0667,57,4,284.8,0,Occasional Regulars,0
+C0668,47,1,168.0,0,Occasional Regulars,0
+C0669,24,15,2157.15,2,Frequent Everyday Shoppers,0
+C0670,12,6,4534.0,1,Premium Big-Spenders,1
+C0671,10,21,3478.9,2,Frequent Everyday Shoppers,0
+C0672,47,2,228.0,0,Occasional Regulars,0
+C0673,53,1,399.0,0,Occasional Regulars,0
+C0674,15,17,4001.85,2,Frequent Everyday Shoppers,0
+C0675,6,18,3306.1,2,Frequent Everyday Shoppers,0
+C0676,8,4,316.5,0,Occasional Regulars,0
+C0677,136,2,244.0,3,Dormant Low-Value,0
+C0678,24,24,3480.2,2,Frequent Everyday Shoppers,0
+C0679,0,15,2949.4,2,Frequent Everyday Shoppers,0
+C0680,4,2,135.0,0,Occasional Regulars,0
+C0681,82,7,5284.9,1,Premium Big-Spenders,1
+C0682,51,7,7733.3,1,Premium Big-Spenders,1
+C0683,0,25,3976.5,2,Frequent Everyday Shoppers,0
+C0684,12,30,6702.5,2,Frequent Everyday Shoppers,0
+C0685,10,13,3493.25,2,Frequent Everyday Shoppers,0
+C0686,43,1,131.75,0,Occasional Regulars,0
+C0687,28,3,4065.85,0,Occasional Regulars,0
+C0688,18,6,1138.0,0,Occasional Regulars,0
+C0689,4,15,2834.6,2,Frequent Everyday Shoppers,0
+C0690,6,22,3370.45,2,Frequent Everyday Shoppers,0
+C0691,118,2,318.0,3,Dormant Low-Value,0
+C0692,180,1,2598.0,3,Dormant Low-Value,0
+C0693,27,9,14766.55,1,Premium Big-Spenders,1
+C0694,32,3,578.6,0,Occasional Regulars,0
+C0695,23,3,703.95,0,Occasional Regulars,0
+C0696,51,9,10087.8,1,Premium Big-Spenders,1
+C0697,29,4,5003.1,1,Premium Big-Spenders,1
+C0698,36,2,239.0,0,Occasional Regulars,0
+C0699,2,10,12471.8,1,Premium Big-Spenders,1
+C0700,32,7,6049.799999999999,1,Premium Big-Spenders,1
+C0701,7,20,3626.5,2,Frequent Everyday Shoppers,0
+C0702,128,3,904.0,3,Dormant Low-Value,0
+C0703,44,5,2606.3,0,Occasional Regulars,0
+C0704,8,5,717.65,0,Occasional Regulars,0
+C0705,0,21,3185.4,2,Frequent Everyday Shoppers,0
+C0706,64,2,672.0,0,Occasional Regulars,0
+C0707,23,4,2543.35,0,Occasional Regulars,0
+C0708,5,23,4095.15,2,Frequent Everyday Shoppers,0
+C0709,9,13,1644.0500000000002,2,Frequent Everyday Shoppers,0
+C0710,123,1,47.5,3,Dormant Low-Value,0
+C0711,73,2,119.4,3,Dormant Low-Value,0
+C0712,1,4,5995.4,1,Premium Big-Spenders,1
+C0713,14,7,7898.4,1,Premium Big-Spenders,1
+C0714,2,14,3023.15,2,Frequent Everyday Shoppers,0
+C0715,60,4,671.1,0,Occasional Regulars,0
+C0716,14,24,4746.25,2,Frequent Everyday Shoppers,0
+C0717,4,4,5099.5,1,Premium Big-Spenders,1
+C0718,41,2,1497.0,0,Occasional Regulars,0
+C0719,39,2,822.0,0,Occasional Regulars,0
+C0720,8,5,605.4,0,Occasional Regulars,0
+C0721,19,21,4087.65,2,Frequent Everyday Shoppers,0
+C0722,5,4,432.5,0,Occasional Regulars,0
+C0723,158,1,135.0,3,Dormant Low-Value,0
+C0725,11,10,8597.550000000001,1,Premium Big-Spenders,1
+C0726,7,20,3711.75,2,Frequent Everyday Shoppers,0
+C0727,3,18,3649.5,2,Frequent Everyday Shoppers,0
+C0728,4,21,4045.35,2,Frequent Everyday Shoppers,0
+C0729,22,2,1061.7,0,Occasional Regulars,0
+C0730,33,3,271.5,0,Occasional Regulars,0
+C0731,3,23,3266.35,2,Frequent Everyday Shoppers,0
+C0732,7,21,2935.0,2,Frequent Everyday Shoppers,0
+C0733,12,6,2086.85,0,Occasional Regulars,0
+C0734,178,1,2598.0,3,Dormant Low-Value,0
+C0735,40,2,39.25,0,Occasional Regulars,0
+C0736,156,1,50.0,3,Dormant Low-Value,0
+C0737,28,3,860.0,0,Occasional Regulars,0
+C0738,40,5,313.4,0,Occasional Regulars,0
+C0739,1,4,2570.3,0,Occasional Regulars,0
+C0740,43,17,1984.65,2,Frequent Everyday Shoppers,0
+C0741,51,4,5844.1,1,Premium Big-Spenders,1
+C0742,9,16,4395.5,2,Frequent Everyday Shoppers,0
+C0743,59,7,12730.05,1,Premium Big-Spenders,1
+C0744,120,2,288.75,3,Dormant Low-Value,0
+C0745,0,17,3663.55,2,Frequent Everyday Shoppers,0
+C0746,0,21,2566.2,2,Frequent Everyday Shoppers,0
+C0747,8,2,55.35,0,Occasional Regulars,0
+C0748,10,25,4509.7,2,Frequent Everyday Shoppers,0
+C0749,9,14,1778.0,2,Frequent Everyday Shoppers,0
+C0750,5,22,3643.5,2,Frequent Everyday Shoppers,0
+C0751,3,17,2444.1,2,Frequent Everyday Shoppers,0
+C0752,2,21,4236.9,2,Frequent Everyday Shoppers,0
+C0753,1,16,2038.85,2,Frequent Everyday Shoppers,0
+C0754,3,4,920.4,0,Occasional Regulars,0
+C0755,30,3,681.2,0,Occasional Regulars,0
+C0756,2,17,3515.85,2,Frequent Everyday Shoppers,0
+C0757,7,16,3463.4,2,Frequent Everyday Shoppers,0
+C0758,2,16,2845.9,2,Frequent Everyday Shoppers,0
+C0760,20,20,3746.1,2,Frequent Everyday Shoppers,0
+C0761,56,5,1305.25,0,Occasional Regulars,0
+C0762,22,17,3474.65,2,Frequent Everyday Shoppers,0
+C0763,107,4,1563.25,3,Dormant Low-Value,0
+C0764,45,4,883.0,0,Occasional Regulars,0
+C0765,7,4,780.0,0,Occasional Regulars,0
+C0766,96,2,487.65,3,Dormant Low-Value,0
+C0767,0,21,3663.85,2,Frequent Everyday Shoppers,0
+C0768,161,1,40.0,3,Dormant Low-Value,0
+C0769,1,6,2407.45,0,Occasional Regulars,0
+C0770,2,20,2604.35,2,Frequent Everyday Shoppers,0
+C0771,72,2,171.0,3,Dormant Low-Value,0
+C0772,4,21,3596.8,2,Frequent Everyday Shoppers,0
+C0773,2,15,2684.25,2,Frequent Everyday Shoppers,0
+C0774,102,2,174.0,3,Dormant Low-Value,0
+C0775,14,8,10759.2,1,Premium Big-Spenders,1
+C0776,11,26,5157.75,2,Frequent Everyday Shoppers,0
+C0777,4,8,6034.3,1,Premium Big-Spenders,1
+C0778,100,5,3335.6,3,Dormant Low-Value,0
+C0779,136,3,4504.65,3,Dormant Low-Value,0
+C0780,3,17,2944.5,2,Frequent Everyday Shoppers,0
+C0781,84,1,560.0,3,Dormant Low-Value,0
+C0782,26,4,350.75,0,Occasional Regulars,0
+C0783,31,3,1140.8,0,Occasional Regulars,0
+C0784,36,6,2802.4500000000003,0,Occasional Regulars,0
+C0785,6,5,6373.65,1,Premium Big-Spenders,1
+C0786,6,13,2349.8,2,Frequent Everyday Shoppers,0
+C0787,29,2,236.1,0,Occasional Regulars,0
+C0788,47,4,561.0,0,Occasional Regulars,0
+C0789,59,1,52.2,0,Occasional Regulars,0
+C0790,6,24,4238.5,2,Frequent Everyday Shoppers,0
+C0791,74,2,184.3,3,Dormant Low-Value,0
+C0792,5,22,4221.25,2,Frequent Everyday Shoppers,0
+C0793,0,7,3865.85,0,Occasional Regulars,0
+C0794,12,1,21.6,0,Occasional Regulars,0
+C0795,31,6,910.7,0,Occasional Regulars,0
+C0796,88,1,352.0,3,Dormant Low-Value,0
+C0797,6,22,4764.85,2,Frequent Everyday Shoppers,0
+C0798,9,29,4653.75,2,Frequent Everyday Shoppers,0
+C0799,1,26,2839.4,2,Frequent Everyday Shoppers,0
+C0800,6,22,2705.8,2,Frequent Everyday Shoppers,0
+C0801,20,1,76.5,0,Occasional Regulars,0
+C0802,10,7,7464.1,1,Premium Big-Spenders,1
+C0803,0,15,2724.35,2,Frequent Everyday Shoppers,0
+C0804,0,16,3278.95,2,Frequent Everyday Shoppers,0
+C0805,2,13,2025.45,2,Frequent Everyday Shoppers,0
+C0806,13,4,429.4,0,Occasional Regulars,0
+C0807,9,18,3122.45,2,Frequent Everyday Shoppers,0
+C0808,13,23,3046.3,2,Frequent Everyday Shoppers,0
+C0809,30,3,642.5,0,Occasional Regulars,0
+C0810,106,1,48.0,3,Dormant Low-Value,0
+C0811,21,7,4948.15,1,Premium Big-Spenders,1
+C0812,12,22,2897.35,2,Frequent Everyday Shoppers,0
+C0813,22,16,1777.2,2,Frequent Everyday Shoppers,0
+C0814,40,18,5887.4,2,Frequent Everyday Shoppers,0
+C0815,1,3,1047.8,0,Occasional Regulars,0
+C0816,1,7,6514.0,1,Premium Big-Spenders,1
+C0817,9,3,451.65,0,Occasional Regulars,0
+C0818,64,4,2860.0,0,Occasional Regulars,0
+C0819,52,4,9144.55,1,Premium Big-Spenders,1
+C0820,35,3,178.0,0,Occasional Regulars,0
+C0821,3,23,4362.2,2,Frequent Everyday Shoppers,0
+C0822,4,1,198.0,0,Occasional Regulars,0
+C0823,24,4,827.95,0,Occasional Regulars,0
+C0824,114,2,612.0,3,Dormant Low-Value,0
+C0825,60,6,4042.25,0,Occasional Regulars,0
+C0826,41,5,881.0999999999999,0,Occasional Regulars,0
+C0828,23,6,3644.9500000000003,0,Occasional Regulars,0
+C0829,7,4,1195.5,0,Occasional Regulars,0
+C0830,6,2,353.5,0,Occasional Regulars,0
+C0831,12,5,5037.35,1,Premium Big-Spenders,1
+C0832,140,1,339.15,3,Dormant Low-Value,0
+C0833,13,8,4444.9,1,Premium Big-Spenders,1
+C0834,22,2,1225.0,0,Occasional Regulars,0
+C0836,14,4,440.5,0,Occasional Regulars,0
+C0837,5,20,2896.35,2,Frequent Everyday Shoppers,0
+C0838,71,2,432.5,3,Dormant Low-Value,0
+C0839,0,28,3334.55,2,Frequent Everyday Shoppers,0
+C0840,4,20,3689.0,2,Frequent Everyday Shoppers,0
+C0841,36,6,3446.45,0,Occasional Regulars,0
+C0842,7,17,3627.35,2,Frequent Everyday Shoppers,0
+C0843,34,2,107.4,0,Occasional Regulars,0
+C0844,2,15,1770.45,2,Frequent Everyday Shoppers,0
+C0845,31,16,3411.2,2,Frequent Everyday Shoppers,0
+C0846,2,18,3421.3,2,Frequent Everyday Shoppers,0
+C0847,11,3,921.2,0,Occasional Regulars,0
+C0848,25,3,785.2,0,Occasional Regulars,0
+C0849,72,1,129.0,3,Dormant Low-Value,0
+C0850,16,5,3006.6,0,Occasional Regulars,0
+C0851,168,1,129.0,3,Dormant Low-Value,0
+C0852,88,4,429.2,3,Dormant Low-Value,0
+C0853,4,23,3668.4,2,Frequent Everyday Shoppers,0
+C0854,11,17,3477.2,2,Frequent Everyday Shoppers,0
+C0855,4,15,2365.6,2,Frequent Everyday Shoppers,0
+C0856,4,17,4203.95,2,Frequent Everyday Shoppers,0
+C0857,48,2,168.3,0,Occasional Regulars,0
+C0858,124,5,575.1,3,Dormant Low-Value,0
+C0859,39,3,482.6,0,Occasional Regulars,0
+C0860,4,23,3921.45,2,Frequent Everyday Shoppers,0
+C0861,103,1,29.0,3,Dormant Low-Value,0
+C0862,28,6,4456.05,1,Premium Big-Spenders,1
+C0863,61,2,581.75,0,Occasional Regulars,0
+C0864,18,3,544.0,0,Occasional Regulars,0
+C0865,7,5,2282.2,0,Occasional Regulars,0
+C0866,136,2,286.8,3,Dormant Low-Value,0
+C0867,105,3,2794.5,3,Dormant Low-Value,0
+C0868,42,16,3161.85,2,Frequent Everyday Shoppers,0
+C0869,10,8,4789.0,1,Premium Big-Spenders,1
+C0870,34,14,2526.9,2,Frequent Everyday Shoppers,0
+C0871,4,19,3235.25,2,Frequent Everyday Shoppers,0
+C0872,2,20,3589.3,2,Frequent Everyday Shoppers,0
+C0873,56,7,7062.7,1,Premium Big-Spenders,1
+C0874,63,2,204.6,0,Occasional Regulars,0
+C0875,7,19,3885.0,2,Frequent Everyday Shoppers,0
+C0876,14,5,1954.9,0,Occasional Regulars,0
+C0877,16,12,1138.85,0,Occasional Regulars,0
+C0878,16,2,277.4,0,Occasional Regulars,0
+C0879,52,4,2070.15,0,Occasional Regulars,0
+C0880,44,19,2659.05,2,Frequent Everyday Shoppers,0
+C0881,18,3,228.95,0,Occasional Regulars,0
+C0882,97,2,888.0,3,Dormant Low-Value,0
+C0883,36,4,5603.0,1,Premium Big-Spenders,1
+C0884,39,5,1144.1,0,Occasional Regulars,0
+C0885,63,1,225.0,0,Occasional Regulars,0
+C0886,10,20,3112.45,2,Frequent Everyday Shoppers,0
+C0887,77,4,2150.15,3,Dormant Low-Value,0
+C0888,27,7,6854.4,1,Premium Big-Spenders,1
+C0889,7,19,2949.4,2,Frequent Everyday Shoppers,0
+C0890,27,5,745.0,0,Occasional Regulars,0
+C0891,59,5,487.45,0,Occasional Regulars,0
+C0892,46,2,241.25,0,Occasional Regulars,0
+C0893,1,8,1529.3,0,Occasional Regulars,0
+C0894,13,17,2919.2,2,Frequent Everyday Shoppers,0
+C0895,6,14,1465.4,2,Frequent Everyday Shoppers,0
+C0896,3,22,4198.75,2,Frequent Everyday Shoppers,0
+C0897,1,17,2234.75,2,Frequent Everyday Shoppers,0
+C0898,3,5,492.2,0,Occasional Regulars,0
+C0899,33,3,5255.3,1,Premium Big-Spenders,1
+C0900,0,17,4775.3,2,Frequent Everyday Shoppers,0
+C0901,19,17,3170.2,2,Frequent Everyday Shoppers,0
+C0902,94,1,12.0,3,Dormant Low-Value,0
+C0903,4,15,4348.4,2,Frequent Everyday Shoppers,0
+C0904,14,8,5360.8,1,Premium Big-Spenders,1
+C0905,52,16,2647.75,2,Frequent Everyday Shoppers,0
+C0906,12,17,2166.0499999999997,2,Frequent Everyday Shoppers,0
+C0907,12,19,2407.95,2,Frequent Everyday Shoppers,0
+C0908,94,4,1140.15,3,Dormant Low-Value,0
+C0909,22,18,3825.55,2,Frequent Everyday Shoppers,0
+C0910,38,5,3347.3,0,Occasional Regulars,0
+C0911,0,19,3818.35,2,Frequent Everyday Shoppers,0
+C0912,70,5,897.6,3,Dormant Low-Value,0
+C0913,9,13,2592.4,2,Frequent Everyday Shoppers,0
+C0914,11,5,5849.5,1,Premium Big-Spenders,1
+C0915,12,8,5522.75,1,Premium Big-Spenders,1
+C0916,13,6,8444.85,1,Premium Big-Spenders,1
+C0917,36,2,747.5,0,Occasional Regulars,0
+C0918,17,19,3997.4,2,Frequent Everyday Shoppers,0
+C0919,64,1,29.0,0,Occasional Regulars,0
+C0920,16,5,4248.2,1,Premium Big-Spenders,1
+C0921,36,8,6020.8,1,Premium Big-Spenders,1
+C0922,1,8,914.55,0,Occasional Regulars,0
+C0923,28,3,387.0,0,Occasional Regulars,0
+C0924,3,22,4272.9,2,Frequent Everyday Shoppers,0
+C0925,7,20,3100.2,2,Frequent Everyday Shoppers,0
+C0926,157,1,139.5,3,Dormant Low-Value,0
+C0927,65,4,767.65,0,Occasional Regulars,0
+C0928,48,1,129.0,0,Occasional Regulars,0
+C0929,15,20,3121.45,2,Frequent Everyday Shoppers,0
+C0930,5,9,10151.4,1,Premium Big-Spenders,1
+C0931,106,1,260.0,3,Dormant Low-Value,0
+C0932,127,1,525.0,3,Dormant Low-Value,0
+C0933,29,14,1561.45,2,Frequent Everyday Shoppers,0
+C0934,31,7,5058.4,1,Premium Big-Spenders,1
+C0935,59,2,378.0,0,Occasional Regulars,0
+C0936,133,1,285.0,3,Dormant Low-Value,0
+C0937,11,21,4160.8,2,Frequent Everyday Shoppers,0
+C0938,38,5,3674.3999999999996,0,Occasional Regulars,0
+C0939,125,3,459.5,3,Dormant Low-Value,0
+C0940,22,9,8874.2,1,Premium Big-Spenders,1
+C0941,9,23,3866.45,2,Frequent Everyday Shoppers,0
+C0942,12,6,8643.6,1,Premium Big-Spenders,1
+C0943,48,1,89.1,0,Occasional Regulars,0
+C0944,23,7,4795.35,1,Premium Big-Spenders,1
+C0945,6,17,1982.8000000000002,2,Frequent Everyday Shoppers,0
+C0946,22,2,261.0,0,Occasional Regulars,0
+C0947,17,8,2787.85,0,Occasional Regulars,0
+C0948,17,17,2977.95,2,Frequent Everyday Shoppers,0
+C0949,1,18,2500.6,2,Frequent Everyday Shoppers,0
+C0950,14,8,6788.85,1,Premium Big-Spenders,1
+C0951,7,5,3871.95,0,Occasional Regulars,0
+C0952,3,22,3302.7,2,Frequent Everyday Shoppers,0
+C0953,0,17,3240.95,2,Frequent Everyday Shoppers,0
+C0954,63,2,534.0,0,Occasional Regulars,0
+C0955,176,1,272.0,3,Dormant Low-Value,0
+C0956,30,6,4567.55,1,Premium Big-Spenders,1
+C0957,25,21,2999.2,2,Frequent Everyday Shoppers,0
+C0958,164,1,416.5,3,Dormant Low-Value,0
+C0959,0,19,3062.3,2,Frequent Everyday Shoppers,0
+C0960,23,8,1446.7,0,Occasional Regulars,0
+C0961,70,3,483.0,3,Dormant Low-Value,0
+C0962,6,4,559.8499999999999,0,Occasional Regulars,0
+C0963,20,23,3350.2,2,Frequent Everyday Shoppers,0
+C0964,1,20,4320.9,2,Frequent Everyday Shoppers,0
+C0965,26,4,360.8,0,Occasional Regulars,0
+C0966,6,21,4185.3,2,Frequent Everyday Shoppers,0
+C0967,107,2,185.1,3,Dormant Low-Value,0
+C0968,0,19,2619.7,2,Frequent Everyday Shoppers,0
+C0969,13,18,3411.25,2,Frequent Everyday Shoppers,0
+C0970,27,2,510.0,0,Occasional Regulars,0
+C0971,120,2,594.4,3,Dormant Low-Value,0
+C0972,93,6,4427.5,3,Dormant Low-Value,0
+C0973,1,21,4499.2,2,Frequent Everyday Shoppers,0
+C0974,11,4,1094.5,0,Occasional Regulars,0
+C0975,34,5,484.55,0,Occasional Regulars,0
+C0976,54,1,560.0,0,Occasional Regulars,0
+C0977,33,5,5444.6,1,Premium Big-Spenders,1
+C0978,37,6,918.65,0,Occasional Regulars,0
+C0979,10,1,76.8,0,Occasional Regulars,0
+C0980,34,4,3944.0,0,Occasional Regulars,0
+C0981,24,2,518.3,0,Occasional Regulars,0
+C0982,172,1,18.0,3,Dormant Low-Value,0
+C0983,34,5,6793.75,1,Premium Big-Spenders,1
+C0984,4,5,4077.25,1,Premium Big-Spenders,1
+C0985,46,4,338.6,0,Occasional Regulars,0
+C0986,19,23,3360.95,2,Frequent Everyday Shoppers,0
+C0987,6,17,2567.95,2,Frequent Everyday Shoppers,0
+C0988,134,1,396.0,3,Dormant Low-Value,0
+C0989,19,4,387.75,0,Occasional Regulars,0
+C0990,8,26,4186.95,2,Frequent Everyday Shoppers,0
+C0991,94,2,148.05,3,Dormant Low-Value,0
+C0992,86,3,614.75,3,Dormant Low-Value,0
+C0993,9,2,151.2,0,Occasional Regulars,0
+C0994,20,3,3751.6499999999996,0,Occasional Regulars,0
+C0995,14,24,3500.4,2,Frequent Everyday Shoppers,0
+C0996,26,6,5134.0,1,Premium Big-Spenders,1
+C0997,28,3,960.9499999999999,0,Occasional Regulars,0
+C0998,128,1,58.8,3,Dormant Low-Value,0
+C0999,24,8,6428.599999999999,1,Premium Big-Spenders,1
+C1000,1,8,8943.2,1,Premium Big-Spenders,1
+C1001,35,5,963.5,0,Occasional Regulars,0
+C1002,52,2,270.0,0,Occasional Regulars,0
+C1003,69,5,3747.9,0,Occasional Regulars,0
+C1004,79,2,112.80000000000001,3,Dormant Low-Value,0
+C1005,33,2,888.0,0,Occasional Regulars,0
+C1006,43,2,252.0,0,Occasional Regulars,0
+C1007,129,1,40.0,3,Dormant Low-Value,0
+C1008,15,7,6100.05,1,Premium Big-Spenders,1
+C1009,88,6,6931.4,1,Premium Big-Spenders,1
+C1010,0,9,797.5,0,Occasional Regulars,0
+C1011,5,19,4400.8,2,Frequent Everyday Shoppers,0
+C1012,9,3,307.5,0,Occasional Regulars,0
+C1013,79,4,4591.2,1,Premium Big-Spenders,1
+C1014,4,24,5422.5,2,Frequent Everyday Shoppers,0
+C1015,4,17,2968.85,2,Frequent Everyday Shoppers,0
+C1016,37,17,3376.05,2,Frequent Everyday Shoppers,0
+C1017,148,2,188.4,3,Dormant Low-Value,0
+C1018,2,15,3156.9,2,Frequent Everyday Shoppers,0
+C1019,34,4,1398.1499999999999,0,Occasional Regulars,0
+C1020,3,25,5031.9,2,Frequent Everyday Shoppers,0
+C1021,41,6,1296.0,0,Occasional Regulars,0
+C1022,10,2,124.2,0,Occasional Regulars,0
+C1023,0,20,3613.85,2,Frequent Everyday Shoppers,0
+C1024,15,7,10444.15,1,Premium Big-Spenders,1
+C1025,19,2,276.0,0,Occasional Regulars,0
+C1026,83,1,72.0,3,Dormant Low-Value,0
+C1027,51,3,327.3,0,Occasional Regulars,0
+C1028,43,4,999.0,0,Occasional Regulars,0
+C1029,45,7,711.25,0,Occasional Regulars,0
+C1030,7,7,3565.55,0,Occasional Regulars,0
+C1031,83,6,5778.5,1,Premium Big-Spenders,1
+C1032,7,5,6889.15,1,Premium Big-Spenders,1
+C1033,12,18,2318.35,2,Frequent Everyday Shoppers,0
+C1034,83,3,655.5,3,Dormant Low-Value,0
+C1035,103,2,624.0,3,Dormant Low-Value,0
+C1036,20,2,328.5,0,Occasional Regulars,0
+C1037,67,3,227.0,0,Occasional Regulars,0
+C1038,12,2,441.0,0,Occasional Regulars,0
+C1039,11,7,4787.05,1,Premium Big-Spenders,1
+C1040,61,2,135.0,0,Occasional Regulars,0
+C1042,7,21,4764.1,2,Frequent Everyday Shoppers,0
+C1043,4,16,3558.45,2,Frequent Everyday Shoppers,0
+C1044,6,7,6982.549999999999,1,Premium Big-Spenders,1
+C1045,47,5,2965.05,0,Occasional Regulars,0
+C1046,24,2,173.1,0,Occasional Regulars,0
+C1047,5,15,1651.9,2,Frequent Everyday Shoppers,0
+C1048,97,3,446.0,3,Dormant Low-Value,0
+C1049,0,24,4396.7,2,Frequent Everyday Shoppers,0
+C1050,72,2,162.75,3,Dormant Low-Value,0
+C1051,28,2,316.8,0,Occasional Regulars,0
+C1053,154,1,396.0,3,Dormant Low-Value,0
+C1054,110,1,43.2,3,Dormant Low-Value,0
+C1055,25,7,1319.5,0,Occasional Regulars,0
+C1056,5,3,388.0,0,Occasional Regulars,0
+C1057,16,18,2886.35,2,Frequent Everyday Shoppers,0
+C1058,3,21,3951.15,2,Frequent Everyday Shoppers,0
+C1059,3,11,7107.35,1,Premium Big-Spenders,1
+C1060,8,16,2292.05,2,Frequent Everyday Shoppers,0
+C1061,73,1,34.8,3,Dormant Low-Value,0
+C1062,20,6,1885.7,0,Occasional Regulars,0
+C1063,4,15,1742.05,2,Frequent Everyday Shoppers,0
+C1064,5,19,3236.95,2,Frequent Everyday Shoppers,0
+C1065,135,2,103.0,3,Dormant Low-Value,0
+C1066,29,4,385.3,0,Occasional Regulars,0
+C1067,14,6,2486.2,0,Occasional Regulars,0
+C1068,1,24,3908.95,2,Frequent Everyday Shoppers,0
+C1069,29,19,4652.35,2,Frequent Everyday Shoppers,0
+C1070,135,2,378.0,3,Dormant Low-Value,0
+C1071,0,1,188.1,0,Occasional Regulars,0
+C1072,0,21,2945.6,2,Frequent Everyday Shoppers,0
+C1073,14,3,420.4,0,Occasional Regulars,0
+C1074,38,18,2098.6,2,Frequent Everyday Shoppers,0
+C1075,121,1,198.0,3,Dormant Low-Value,0
+C1076,30,3,458.6,0,Occasional Regulars,0
+C1077,10,22,3324.9,2,Frequent Everyday Shoppers,0
+C1078,23,4,1285.85,0,Occasional Regulars,0
+C1079,8,22,4655.95,2,Frequent Everyday Shoppers,0
+C1080,10,27,4473.75,2,Frequent Everyday Shoppers,0
+C1081,44,7,6216.25,1,Premium Big-Spenders,1
+C1082,2,17,2687.9,2,Frequent Everyday Shoppers,0
+C1084,37,3,233.8,0,Occasional Regulars,0
+C1085,11,5,7222.9,1,Premium Big-Spenders,1
+C1086,0,3,1605.8,0,Occasional Regulars,0
+C1087,39,2,512.4,0,Occasional Regulars,0
+C1088,44,4,604.5,0,Occasional Regulars,0
+C1089,149,2,1060.5,3,Dormant Low-Value,0
+C1090,47,4,2701.1,0,Occasional Regulars,0
+C1091,3,12,1237.2,0,Occasional Regulars,0
+C1092,19,3,760.8,0,Occasional Regulars,0
+C1093,8,19,3138.85,2,Frequent Everyday Shoppers,0
+C1094,9,4,3932.8,0,Occasional Regulars,0
+C1095,0,26,4852.6,2,Frequent Everyday Shoppers,0
+C1096,5,23,4024.9,2,Frequent Everyday Shoppers,0
+C1097,132,1,379.05,3,Dormant Low-Value,0
+C1098,27,4,6644.5,1,Premium Big-Spenders,1
+C1099,22,3,1323.05,0,Occasional Regulars,0
+C1100,48,2,718.0,0,Occasional Regulars,0
+C1101,60,5,699.5,0,Occasional Regulars,0
+C1102,8,8,7503.6,1,Premium Big-Spenders,1
+C1103,17,2,202.5,0,Occasional Regulars,0
+C1104,85,3,504.6,3,Dormant Low-Value,0
+C1105,14,1,260.0,0,Occasional Regulars,0
+C1106,70,3,485.0,3,Dormant Low-Value,0
+C1107,2,13,2075.0,2,Frequent Everyday Shoppers,0
+C1108,11,5,834.8,0,Occasional Regulars,0
+C1109,3,27,3753.25,2,Frequent Everyday Shoppers,0
+C1110,0,21,4191.5,2,Frequent Everyday Shoppers,0
+C1112,19,6,5620.4,1,Premium Big-Spenders,1
+C1113,13,3,2760.45,0,Occasional Regulars,0
+C1114,0,5,2149.8,0,Occasional Regulars,0
+C1115,65,3,294.4,0,Occasional Regulars,0
+C1116,20,3,352.95,0,Occasional Regulars,0
+C1117,14,6,7042.2,1,Premium Big-Spenders,1
+C1118,21,19,2112.65,2,Frequent Everyday Shoppers,0
+C1119,6,19,3447.5,2,Frequent Everyday Shoppers,0
+C1120,6,13,3189.5,2,Frequent Everyday Shoppers,0
+C1121,24,4,770.25,0,Occasional Regulars,0
+C1122,6,21,3164.8,2,Frequent Everyday Shoppers,0
+C1123,24,3,3002.1,0,Occasional Regulars,0
+C1124,0,12,1700.8,2,Frequent Everyday Shoppers,0
+C1125,12,5,372.55,0,Occasional Regulars,0
+C1126,47,8,8595.7,1,Premium Big-Spenders,1
+C1127,20,5,4292.5,1,Premium Big-Spenders,1
+C1128,7,1,126.0,0,Occasional Regulars,0
+C1129,63,3,2902.85,0,Occasional Regulars,0
+C1130,6,18,3919.35,2,Frequent Everyday Shoppers,0
+C1131,62,4,1091.8,0,Occasional Regulars,0
+C1132,66,4,4776.9,1,Premium Big-Spenders,1
+C1133,19,18,3068.0,2,Frequent Everyday Shoppers,0
+C1134,16,20,4973.85,2,Frequent Everyday Shoppers,0
+C1135,7,18,3371.35,2,Frequent Everyday Shoppers,0
+C1136,59,6,9650.25,1,Premium Big-Spenders,1
+C1137,19,18,3775.9,2,Frequent Everyday Shoppers,0
+C1138,65,2,342.0,0,Occasional Regulars,0
+C1139,16,29,5139.25,2,Frequent Everyday Shoppers,0
+C1140,18,23,4223.15,2,Frequent Everyday Shoppers,0
+C1141,21,20,3163.9,2,Frequent Everyday Shoppers,0
+C1142,4,20,5120.95,2,Frequent Everyday Shoppers,0
+C1143,12,13,2253.4,2,Frequent Everyday Shoppers,0
+C1144,110,1,71.25,3,Dormant Low-Value,0
+C1145,44,22,2527.45,2,Frequent Everyday Shoppers,0
+C1146,46,6,9082.65,1,Premium Big-Spenders,1
+C1147,19,9,10156.9,1,Premium Big-Spenders,1
+C1148,7,5,3155.45,0,Occasional Regulars,0
+C1149,84,2,161.4,3,Dormant Low-Value,0
+C1150,6,20,2392.8,2,Frequent Everyday Shoppers,0
+C1151,30,21,2647.5,2,Frequent Everyday Shoppers,0
+C1152,2,21,2922.55,2,Frequent Everyday Shoppers,0
+C1153,17,4,2490.9,0,Occasional Regulars,0
+C1154,94,3,477.2,3,Dormant Low-Value,0
+C1155,0,21,4456.75,2,Frequent Everyday Shoppers,0
+C1156,21,4,5894.6,1,Premium Big-Spenders,1
+C1157,39,3,2132.2,0,Occasional Regulars,0
+C1158,65,1,33.6,0,Occasional Regulars,0
+C1159,94,1,108.0,3,Dormant Low-Value,0
+C1160,2,1,51.0,0,Occasional Regulars,0
+C1161,31,3,374.0,0,Occasional Regulars,0
+C1162,18,1,183.75,0,Occasional Regulars,0
+C1163,85,3,664.05,3,Dormant Low-Value,0
+C1164,9,14,2185.9,2,Frequent Everyday Shoppers,0
+C1166,1,19,2158.8,2,Frequent Everyday Shoppers,0
+C1167,5,23,2263.3,2,Frequent Everyday Shoppers,0
+C1168,36,3,488.6,0,Occasional Regulars,0
+C1169,43,2,496.0,0,Occasional Regulars,0
+C1170,155,3,393.0,3,Dormant Low-Value,0
+C1171,38,11,6575.55,1,Premium Big-Spenders,1
+C1172,11,16,2847.6,2,Frequent Everyday Shoppers,0
+C1173,46,4,350.75,0,Occasional Regulars,0
+C1174,38,13,1816.9,0,Occasional Regulars,0
+C1175,7,22,4868.95,2,Frequent Everyday Shoppers,0
+C1176,36,4,762.5,0,Occasional Regulars,0
+C1177,73,2,404.0,3,Dormant Low-Value,0
+C1178,67,3,370.5,0,Occasional Regulars,0
+C1179,24,2,157.75,0,Occasional Regulars,0
+C1180,109,1,44.8,3,Dormant Low-Value,0
+C1181,14,6,7094.0,1,Premium Big-Spenders,1
+C1182,24,5,1228.5,0,Occasional Regulars,0
+C1183,98,2,4447.25,3,Dormant Low-Value,0
+C1184,89,2,143.6,3,Dormant Low-Value,0
+C1185,0,21,3594.3,2,Frequent Everyday Shoppers,0
+C1186,17,3,601.0,0,Occasional Regulars,0
+C1187,27,3,347.0,0,Occasional Regulars,0
+C1188,26,6,2202.45,0,Occasional Regulars,0
+C1190,5,21,2453.1,2,Frequent Everyday Shoppers,0
+C1191,2,24,4570.0,2,Frequent Everyday Shoppers,0
+C1192,8,4,252.9,0,Occasional Regulars,0
+C1193,2,1,20.0,0,Occasional Regulars,0
+C1194,75,3,461.5,3,Dormant Low-Value,0
+C1195,0,15,2485.85,2,Frequent Everyday Shoppers,0
+C1196,104,3,339.0,3,Dormant Low-Value,0
+C1197,4,23,3397.15,2,Frequent Everyday Shoppers,0
+C1198,3,18,2803.2,2,Frequent Everyday Shoppers,0
+C1199,16,4,3861.8500000000004,0,Occasional Regulars,0
+C1200,2,22,3559.1,2,Frequent Everyday Shoppers,0
