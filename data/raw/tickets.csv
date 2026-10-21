@@ -1,0 +1,165 @@
+ticket_id,customer_id,order_id,text,true_category
+T0024,C0486,ORD-105035,There is an unauthorized transaction on my card linked to order ORD-105035. I did not place it. Call 7766326255.,fraud
+T0073,C0080,ORD-100816,The invoice for ORD-100816 shows a wrong amount. Call me on 9562272031 to correct the bill.,billing
+T0095,C1087,ORD-111156,The payment page shows an error and the app freezes when I apply a coupon. Order ORD-111156.,technical
+T0159,C1172,,,none
+T0080,C0910,ORD-109516,"I was charged for order ORD-109516 that I never made, it looks like fraud on my account. Call 7967039226.",fraud
+T0124,C0139,ORD-101417,"I was charged for order ORD-101417 that I never made, it looks like fraud on my account. Call 6938157663.",fraud
+T0061,C0812,ORD-108532,"Extra money was deducted for order ORD-108532, please check the bill. Contact user61@example.com.",billing
+T0118,C0355,ORD-103823,"Delivery for ORD-103823 is very late, it was promised in 20 minutes. Write to user118@example.com.",delivery
+T0037,C1156,ORD-111925,I was charged twice for order ORD-111925. Please refund the extra payment. My email is user37@example.com.,billing
+T0002,C0881,ORD-109184,The rider marked ORD-109184 as delivered but I never received the package. Call 6041016815.,delivery
+T0163,C0322,,My delivery was late. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet.,delivery
+T0031,C0958,ORD-109980,The payment page shows an error and the app freezes when I apply a coupon. Order ORD-109980.,technical
+T0047,C0756,ORD-107911,"I cannot login, the OTP never arrives on 8628493426.",technical
+T0063,C0892,ORD-109267,"I cannot login, the OTP never arrives on 7684850357.",technical
+T0121,C0852,ORD-108861,I was charged twice for order ORD-108861. Please refund the extra payment. My email is user121@example.com.,billing
+T0139,C0829,ORD-108665,The app crashes every time I open the cart. I tried to place ORD-108665 again and got an error. Email user139@example.com.,technical
+T0115,C1025,ORD-110592,"I cannot login, the OTP never arrives on 8359412522.",technical
+T0123,C0674,ORD-107015,"I cannot login, the OTP never arrives on 8051630352.",technical
+T0116,C0294,ORD-103152,"I was charged for order ORD-103152 that I never made, it looks like fraud on my account. Call 7852063392.",fraud
+T0136,C0891,ORD-109266,"Someone hacked my account and used my wallet balance. This is fraud, contact user136@example.com.",fraud
+T0008,C1177,ORD-112095,There is an unauthorized transaction on my card linked to order ORD-112095. I did not place it. Call 7279193214.,fraud
+T0102,C0985,ORD-110217,My order ORD-110217 has not arrived and the rider is not picking up calls. Please call 6606044335.,delivery
+T0072,C0218,ORD-102285,"I was charged for order ORD-102285 that I never made, it looks like fraud on my account. Call 9092617709.",fraud
+T0101,C1151,ORD-111861,The invoice for ORD-111861 shows a wrong amount. Call me on 8271812156 to correct the bill.,billing
+T0059,C0764,ORD-108001,"I cannot login, the OTP never arrives on 6543401117.",technical
+T0049,C0078,ORD-100789,The invoice for ORD-100789 shows a wrong amount. Call me on 8340913088 to correct the bill.,billing
+T0153,C0150,ORD-101580,"Extra money was deducted for order ORD-101580, please check the bill. Contact user153@example.com.",billing
+T0050,C0117,ORD-101184,The rider marked ORD-101184 as delivered but I never received the package. Call 6262224644.,delivery
+T0147,C0125,ORD-101278,The payment page shows an error and the app freezes when I apply a coupon. Order ORD-101278.,technical
+T0074,C1119,ORD-111436,The rider marked ORD-111436 as delivered but I never received the package. Call 6171250017.,delivery
+T0156,C0328,ORD-103493,There is an unauthorized transaction on my card linked to order ORD-103493. I did not place it. Call 9187445083.,fraud
+T0145,C0751,ORD-107833,The invoice for ORD-107833 shows a wrong amount. Call me on 9259872399 to correct the bill.,billing
+T0053,C0447,ORD-104751,I was charged twice for order ORD-104751. Please refund the extra payment. My email is user53@example.com.,billing
+T0134,C0608,ORD-106377,My order ORD-106377 has not arrived and the rider is not picking up calls. Please call 7934988831.,delivery
+T0039,C0298,ORD-103207,The app crashes every time I open the cart. I tried to place ORD-103207 again and got an error. Email user39@example.com.,technical
+T0016,C0962,ORD-110014,"I was charged for order ORD-110014 that I never made, it looks like fraud on my account. Call 8843374085.",fraud
+T0055,C1063,ORD-110877,The app crashes every time I open the cart. I tried to place ORD-110877 again and got an error. Email user55@example.com.,technical
+T0130,C0692,ORD-107249,My order ORD-107249 has not arrived and the rider is not picking up calls. Please call 9894737467.,delivery
+T0099,C1000,ORD-110362,The app crashes every time I open the cart. I tried to place ORD-110362 again and got an error. Email user99@example.com.,technical
+T0062,C0403,ORD-104281,The rider marked ORD-104281 as delivered but I never received the package. Call 7201800969.,delivery
+T0013,C0507,ORD-105251,I was charged twice for order ORD-105251. Please refund the extra payment. My email is user13@example.com.,billing
+T0137,C0978,ORD-110191,The invoice for ORD-110191 shows a wrong amount. Call me on 7361957014 to correct the bill.,billing
+T0152,C0530,ORD-105446,"I was charged for order ORD-105446 that I never made, it looks like fraud on my account. Call 7683885084.",fraud
+T0144,C0521,ORD-105355,"I was charged for order ORD-105355 that I never made, it looks like fraud on my account. Call 8412216382.",fraud
+T0094,C0863,ORD-108994,My order ORD-108994 has not arrived and the rider is not picking up calls. Please call 7691091433.,delivery
+T0021,C0909,ORD-109503,"Extra money was deducted for order ORD-109503, please check the bill. Contact user21@example.com.",billing
+T0077,C0082,ORD-100855,"Extra money was deducted for order ORD-100855, please check the bill. Contact user77@example.com.",billing
+T0036,C0173,ORD-101775,"I was charged for order ORD-101775 that I never made, it looks like fraud on my account. Call 7058369231.",fraud
+T0113,C0077,ORD-100782,"Extra money was deducted for order ORD-100782, please check the bill. Contact user113@example.com.",billing
+T0060,C0784,ORD-108186,There is an unauthorized transaction on my card linked to order ORD-108186. I did not place it. Call 7988528541.,fraud
+T0043,C0942,ORD-109807,"I cannot login, the OTP never arrives on 7597695541.",technical
+T0048,C0733,ORD-107646,"Someone hacked my account and used my wallet balance. This is fraud, contact user48@example.com.",fraud
+T0154,C1071,ORD-110981,My order ORD-110981 has not arrived and the rider is not picking up calls. Please call 8143727017.,delivery
+T0125,C1156,ORD-111925,"Extra money was deducted for order ORD-111925, please check the bill. Contact user125@example.com.",billing
+T0146,C1024,ORD-110585,"Delivery for ORD-110585 is very late, it was promised in 20 minutes. Write to user146@example.com.",delivery
+T0107,C0783,ORD-108183,"I cannot login, the OTP never arrives on 7798324283.",technical
+T0011,C0233,ORD-102448,The app crashes every time I open the cart. I tried to place ORD-102448 again and got an error. Email user11@example.com.,technical
+T0017,C0028,ORD-100227,The invoice for ORD-100227 shows a wrong amount. Call me on 6385401556 to correct the bill.,billing
+T0111,C1033,ORD-110648,"I cannot login, the OTP never arrives on 8708197143.",technical
+T0041,C0464,ORD-104872,I was charged twice for order ORD-104872. Please refund the extra payment. My email is user41@example.com.,billing
+T0120,C0208,ORD-102159,There is an unauthorized transaction on my card linked to order ORD-102159. I did not place it. Call 8007532020.,fraud
+T0122,C0404,ORD-104288,The rider marked ORD-104288 as delivered but I never received the package. Call 8771717716.,delivery
+T0001,C0851,ORD-108859,I was charged twice for order ORD-108859. Please refund the extra payment. My email is user1@example.com.,billing
+T0064,C0848,ORD-108847,There is an unauthorized transaction on my card linked to order ORD-108847. I did not place it. Call 8216420527.,fraud
+T0092,C0585,ORD-106087,"Someone hacked my account and used my wallet balance. This is fraud, contact user92@example.com.",fraud
+T0038,C0882,ORD-109188,The rider marked ORD-109188 as delivered but I never received the package. Call 6205468409.,delivery
+T0155,C0285,ORD-103031,The app crashes every time I open the cart. I tried to place ORD-103031 again and got an error. Email user155@example.com.,technical
+T0104,C0815,ORD-108586,"Someone hacked my account and used my wallet balance. This is fraud, contact user104@example.com.",fraud
+T0012,C0335,ORD-103540,"I was charged for order ORD-103540 that I never made, it looks like fraud on my account. Call 6768006191.",fraud
+T0084,C0569,ORD-105924,There is an unauthorized transaction on my card linked to order ORD-105924. I did not place it. Call 8877802143.,fraud
+T0051,C1049,ORD-110766,"I cannot login, the OTP never arrives on 6680542474.",technical
+T0143,C0339,ORD-103589,The app crashes every time I open the cart. I tried to place ORD-103589 again and got an error. Email user143@example.com.,technical
+T0035,C1175,ORD-112067,The payment page shows an error and the app freezes when I apply a coupon. Order ORD-112067.,technical
+T0028,C1036,ORD-110656,There is an unauthorized transaction on my card linked to order ORD-110656. I did not place it. Call 7725115153.,fraud
+T0100,C0754,ORD-107892,There is an unauthorized transaction on my card linked to order ORD-107892. I did not place it. Call 9559057500.,fraud
+T0022,C1160,ORD-111937,My order ORD-111937 has not arrived and the rider is not picking up calls. Please call 6349222189.,delivery
+T0082,C0168,ORD-101719,The rider marked ORD-101719 as delivered but I never received the package. Call 6912822254.,delivery
+T0127,C0976,ORD-110184,The payment page shows an error and the app freezes when I apply a coupon. Order ORD-110184.,technical
+T0162,C0665,,My delivery was late. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet.,delivery
+T0109,C1080,ORD-111098,I was charged twice for order ORD-111098. Please refund the extra payment. My email is user109@example.com.,billing
+T0046,C0442,ORD-104681,My order ORD-104681 has not arrived and the rider is not picking up calls. Please call 8598134016.,delivery
+T0081,C0559,ORD-105812,The invoice for ORD-105812 shows a wrong amount. Call me on 8093014981 to correct the bill.,billing
+T0007,C0682,ORD-107115,"I cannot login, the OTP never arrives on 7975837338.",technical
+T0068,C0208,ORD-102159,"I was charged for order ORD-102159 that I never made, it looks like fraud on my account. Call 9440756891.",fraud
+T0085,C0031,ORD-100246,The invoice for ORD-100246 shows a wrong amount. Call me on 6990540553 to correct the bill.,billing
+T0075,C0901,ORD-109401,The app crashes every time I open the cart. I tried to place ORD-109401 again and got an error. Email user75@example.com.,technical
+T0052,C1005,ORD-110381,There is an unauthorized transaction on my card linked to order ORD-110381. I did not place it. Call 9161875407.,fraud
+T0066,C1199,ORD-112282,My order ORD-112282 has not arrived and the rider is not picking up calls. Please call 6306629834.,delivery
+T0151,C1011,ORD-110419,"I cannot login, the OTP never arrives on 7010101525.",technical
+T0131,C0069,ORD-100640,"I cannot login, the OTP never arrives on 6439060750.",technical
+T0006,C0177,ORD-101828,"Delivery for ORD-101828 is very late, it was promised in 20 minutes. Write to user6@example.com.",delivery
+T0135,C0303,ORD-103236,The payment page shows an error and the app freezes when I apply a coupon. Order ORD-103236.,technical
+T0079,C1128,ORD-111527,"I cannot login, the OTP never arrives on 9650365658.",technical
+T0040,C0256,ORD-102771,There is an unauthorized transaction on my card linked to order ORD-102771. I did not place it. Call 8250535053.,fraud
+T0093,C0131,ORD-101353,The invoice for ORD-101353 shows a wrong amount. Call me on 9638710791 to correct the bill.,billing
+T0089,C0860,ORD-108962,"Extra money was deducted for order ORD-108962, please check the bill. Contact user89@example.com.",billing
+T0034,C1188,ORD-112150,My order ORD-112150 has not arrived and the rider is not picking up calls. Please call 7303545656.,delivery
+T0033,C0714,ORD-107436,The invoice for ORD-107436 shows a wrong amount. Call me on 6355591369 to correct the bill.,billing
+T0160,C0670,,,none
+T0087,C0797,ORD-108291,The app crashes every time I open the cart. I tried to place ORD-108291 again and got an error. Email user87@example.com.,technical
+T0009,C0758,ORD-107947,I was charged twice for order ORD-107947. Please refund the extra payment. My email is user9@example.com.,billing
+T0108,C0340,ORD-103591,"I was charged for order ORD-103591 that I never made, it looks like fraud on my account. Call 8148468787.",fraud
+T0054,C0571,ORD-105954,"Delivery for ORD-105954 is very late, it was promised in 20 minutes. Write to user54@example.com.",delivery
+T0025,C0610,ORD-106410,The invoice for ORD-106410 shows a wrong amount. Call me on 9210876182 to correct the bill.,billing
+T0004,C0721,ORD-107503,There is an unauthorized transaction on my card linked to order ORD-107503. I did not place it. Call 7931118452.,fraud
+T0148,C1057,ORD-110793,There is an unauthorized transaction on my card linked to order ORD-110793. I did not place it. Call 8743023183.,fraud
+T0088,C0852,ORD-108861,"Someone hacked my account and used my wallet balance. This is fraud, contact user88@example.com.",fraud
+T0030,C0015,ORD-100142,"Delivery for ORD-100142 is very late, it was promised in 20 minutes. Write to user30@example.com.",delivery
+T0067,C0704,ORD-107331,"I cannot login, the OTP never arrives on 9138531189.",technical
+T0029,C0885,ORD-109201,The invoice for ORD-109201 shows a wrong amount. Call me on 9731351336 to correct the bill.,billing
+T0129,C0237,ORD-102464,I was charged twice for order ORD-102464. Please refund the extra payment. My email is user129@example.com.,billing
+T0105,C0063,ORD-100548,"Extra money was deducted for order ORD-100548, please check the bill. Contact user105@example.com.",billing
+T0045,C0628,ORD-106549,The invoice for ORD-106549 shows a wrong amount. Call me on 6466957196 to correct the bill.,billing
+T0069,C0491,ORD-105103,The invoice for ORD-105103 shows a wrong amount. Call me on 6427241250 to correct the bill.,billing
+T0010,C1190,ORD-112173,"Delivery for ORD-112173 is very late, it was promised in 20 minutes. Write to user10@example.com.",delivery
+T0023,C0400,ORD-104257,"I cannot login, the OTP never arrives on 8599384471.",technical
+T0106,C0197,ORD-102035,"Delivery for ORD-102035 is very late, it was promised in 20 minutes. Write to user106@example.com.",delivery
+T0015,C0488,ORD-105043,The payment page shows an error and the app freezes when I apply a coupon. Order ORD-105043.,technical
+T0091,C0796,ORD-108287,The app crashes every time I open the cart. I tried to place ORD-108287 again and got an error. Email user91@example.com.,technical
+T0126,C0996,ORD-110339,The rider marked ORD-110339 as delivered but I never received the package. Call 7324939050.,delivery
+T0096,C0324,ORD-103449,There is an unauthorized transaction on my card linked to order ORD-103449. I did not place it. Call 6854741870.,fraud
+T0149,C0770,ORD-108044,The invoice for ORD-108044 shows a wrong amount. Call me on 9045661271 to correct the bill.,billing
+T0070,C1150,ORD-111821,"Delivery for ORD-111821 is very late, it was promised in 20 minutes. Write to user70@example.com.",delivery
+T0026,C0677,ORD-107058,"Delivery for ORD-107058 is very late, it was promised in 20 minutes. Write to user26@example.com.",delivery
+T0097,C0932,ORD-109706,"Extra money was deducted for order ORD-109706, please check the bill. Contact user97@example.com.",billing
+T0132,C0282,ORD-103018,"I was charged for order ORD-103018 that I never made, it looks like fraud on my account. Call 8940109809.",fraud
+T0027,C0232,ORD-102430,The payment page shows an error and the app freezes when I apply a coupon. Order ORD-102430.,technical
+T0119,C0629,ORD-106558,The payment page shows an error and the app freezes when I apply a coupon. Order ORD-106558.,technical
+T0157,C1107,,,none
+T0058,C0287,ORD-103050,"Delivery for ORD-103050 is very late, it was promised in 20 minutes. Write to user58@example.com.",delivery
+T0110,C0056,ORD-100455,My order ORD-100455 has not arrived and the rider is not picking up calls. Please call 6041708693.,delivery
+T0018,C1135,ORD-111613,"Delivery for ORD-111613 is very late, it was promised in 20 minutes. Write to user18@example.com.",delivery
+T0032,C1139,ORD-111658,There is an unauthorized transaction on my card linked to order ORD-111658. I did not place it. Call 6858531173.,fraud
+T0003,C0591,ORD-106171,"I cannot login, the OTP never arrives on 6313166640.",technical
+T0042,C0508,ORD-105268,The rider marked ORD-105268 as delivered but I never received the package. Call 7633267485.,delivery
+T0056,C0140,ORD-101422,There is an unauthorized transaction on my card linked to order ORD-101422. I did not place it. Call 9877673685.,fraud
+T0114,C0619,ORD-106475,The rider marked ORD-106475 as delivered but I never received the package. Call 8254536980.,delivery
+T0083,C0356,ORD-103829,"I cannot login, the OTP never arrives on 8060520140.",technical
+T0138,C0720,ORD-107486,"Delivery for ORD-107486 is very late, it was promised in 20 minutes. Write to user138@example.com.",delivery
+T0057,C1199,ORD-112282,"Extra money was deducted for order ORD-112282, please check the bill. Contact user57@example.com.",billing
+T0076,C0418,ORD-104437,"I was charged for order ORD-104437 that I never made, it looks like fraud on my account. Call 9750161746.",fraud
+T0019,C0579,ORD-106023,The app crashes every time I open the cart. I tried to place ORD-106023 again and got an error. Email user19@example.com.,technical
+T0103,C0499,ORD-105191,The payment page shows an error and the app freezes when I apply a coupon. Order ORD-105191.,technical
+T0164,C0794,,My delivery was late. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet.,delivery
+T0090,C0322,ORD-103437,My order ORD-103437 has not arrived and the rider is not picking up calls. Please call 6078667469.,delivery
+T0112,C0432,ORD-104576,"I was charged for order ORD-104576 that I never made, it looks like fraud on my account. Call 9423393166.",fraud
+T0133,C0717,ORD-107475,"Extra money was deducted for order ORD-107475, please check the bill. Contact user133@example.com.",billing
+T0014,C0579,ORD-106023,"Delivery for ORD-106023 is very late, it was promised in 20 minutes. Write to user14@example.com.",delivery
+T0158,C1106,,,none
+T0020,C0460,ORD-104844,There is an unauthorized transaction on my card linked to order ORD-104844. I did not place it. Call 7050241954.,fraud
+T0142,C0605,ORD-106355,My order ORD-106355 has not arrived and the rider is not picking up calls. Please call 6674178701.,delivery
+T0086,C1132,ORD-111556,The rider marked ORD-111556 as delivered but I never received the package. Call 7962585664.,delivery
+T0141,C0376,ORD-103995,"Extra money was deducted for order ORD-103995, please check the bill. Contact user141@example.com.",billing
+T0044,C0862,ORD-108988,"Someone hacked my account and used my wallet balance. This is fraud, contact user44@example.com.",fraud
+T0117,C0465,ORD-104875,"Extra money was deducted for order ORD-104875, please check the bill. Contact user117@example.com.",billing
+T0078,C0586,ORD-106095,The rider marked ORD-106095 as delivered but I never received the package. Call 6379505274.,delivery
+T0140,C1173,ORD-112046,There is an unauthorized transaction on my card linked to order ORD-112046. I did not place it. Call 7680691576.,fraud
+T0071,C0966,ORD-110076,The app crashes every time I open the cart. I tried to place ORD-110076 again and got an error. Email user71@example.com.,technical
+T0161,C0202,,My delivery was late. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet.,delivery
+T0150,C0622,ORD-106507,The rider marked ORD-106507 as delivered but I never received the package. Call 7908644125.,delivery
+T0065,C0205,ORD-102139,The invoice for ORD-102139 shows a wrong amount. Call me on 6752005652 to correct the bill.,billing
+T0128,C0467,ORD-104881,"Someone hacked my account and used my wallet balance. This is fraud, contact user128@example.com.",fraud
+T0005,C0404,ORD-104288,"Extra money was deducted for order ORD-104288, please check the bill. Contact user5@example.com.",billing
+T0098,C0343,ORD-103638,The rider marked ORD-103638 as delivered but I never received the package. Call 6290377387.,delivery

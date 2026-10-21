@@ -1,0 +1,41 @@
+product_id,product_name,category,price_inr
+P001,Basmati Rice 1kg,Grocery,129
+P002,Toor Dal 1kg,Grocery,165
+P003,Atta 5kg,Grocery,245
+P004,Sunflower Oil 1L,Grocery,155
+P005,Sugar 1kg,Grocery,48
+P006,Salt 1kg,Grocery,24
+P007,Tea Powder 250g,Grocery,120
+P008,Poha 500g,Grocery,42
+P009,Toned Milk 500ml,Dairy,29
+P010,Curd 400g,Dairy,45
+P011,Paneer 200g,Dairy,95
+P012,Butter 100g,Dairy,58
+P013,Cheese Slices 200g,Dairy,130
+P014,Ghee 500ml,Dairy,340
+P015,Eggs 12 Pack,Dairy,84
+P016,Lassi 200ml,Dairy,25
+P017,Potato Chips 52g,Snacks,20
+P018,Namkeen 200g,Snacks,60
+P019,Biscuits 150g,Snacks,30
+P020,Dark Chocolate 80g,Snacks,150
+P021,Instant Noodles 4 Pack,Snacks,56
+P022,Popcorn 100g,Snacks,45
+P023,Peanut Butter 340g,Snacks,210
+P024,Cold Coffee Can 180ml,Snacks,90
+P025,Shampoo 340ml,Personal Care,280
+P026,Face Wash 100ml,Personal Care,190
+P027,Toothpaste 150g,Personal Care,98
+P028,Soap 4 Pack,Personal Care,150
+P029,Hand Wash 250ml,Personal Care,99
+P030,Body Lotion 400ml,Personal Care,350
+P031,Deodorant 150ml,Personal Care,220
+P032,Sunscreen 50g,Personal Care,399
+P033,Wireless Earbuds,Electronics,1499
+P034,Power Bank 10000mAh,Electronics,1299
+P035,USB-C Cable 1m,Electronics,299
+P036,Phone Charger 20W,Electronics,799
+P037,Smart Bulb,Electronics,599
+P038,Bluetooth Speaker,Electronics,1999
+P039,Phone Stand,Electronics,349
+P040,Memory Card 64GB,Electronics,549
