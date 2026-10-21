@@ -136,7 +136,68 @@ The Premium flag comes from whole-window RFM (including the September window tha
 
 ## Part C: Support Ticket Triage with Guardrails
 
-_In progress._
+All 164 tickets are processed in file order through `mock_llm.py` by `src/triage.py`.
+
+### Input guardrails and redaction
+Empty or whitespace-only tickets get status `skipped_empty` (4 tickets) and tickets above `MAX_INPUT_TOKENS = 400` estimated tokens get `flagged_long` (4 tickets, about 734 tokens each); neither is ever sent to the model. Before any prompt is built, these regular expressions are applied in this order: email `[\w.+-]+@[\w-]+\.[\w.]+` becomes `[EMAIL]`, phone `\b[6-9]\d{9}\b` becomes `[PHONE]`, and order id `ORD-\d{6}` becomes `[ORDER_ID]`.
+
+| Substitution | Count |
+|---|---|
+| Emails | 55 |
+| Phone numbers | 91 |
+| Order ids | 132 |
+| Total | 278 |
+
+Re-applying the three patterns to the redacted text finds 0 matches. An assertion runs before every model call and fails if any prompt still contains an email, phone number or order id, and the user message is exactly the redacted ticket text.
+
+### Prompts
+The zero-shot prompt contains the word CLASSIFY, the four categories (billing, delivery, technical, fraud) and asks for JSON `{"category": "...", "reason": "..."}`. The few-shot prompt is the same plus a line `EXAMPLES:` followed by four labelled examples, one of them fraud.
+
+### Retries
+A wrapper allows up to 3 retries on `TransientLLMError`, waiting `BASE_DELAY * 2**n * random.uniform(0.9, 1.15)` seconds with `BASE_DELAY = 0.05`, and logs one line per retry. A full run had 19 transient errors, every one recovered by a first retry (retry number 0), with waits between 0.048 and 0.057 seconds; no ticket ended with a permanent error. Example log line: `retry ticket=T0002 retry_number=0 wait=0.0556s error=503 server busy`. `mock_llm.reset()` is called before each full run.
+
+### Output validation
+A reply is accepted as JSON if its category is one of the four allowed values (`classified_json`). If it is not valid JSON, I take the lowercase words with `re.findall(r"[a-z]+", text.lower())` and accept it if exactly one allowed category word is present (`classified_keyword`). Everything else, including valid JSON with a category outside the list, is `flagged_invalid_output` and goes to human review. I never guess.
+
+| Status | Tickets |
+|---|---|
+| classified_json | 135 |
+| classified_keyword | 12 |
+| flagged_invalid_output | 9 |
+| skipped_empty | 4 |
+| flagged_long | 4 |
+
+### Zero-shot versus few-shot
+| Prompt | Classified | Accuracy | Total tokens | Tokens per classified ticket |
+|---|---|---|---|---|
+| Zero-shot | 147 | 85.7% (126/147) | 8,932 | 60.8 |
+| Few-shot | 147 | 100% (147/147) | 21,100 | 143.5 |
+
+Zero-shot confusion matrix (rows true, columns predicted):
+
+| | billing | delivery | fraud | technical |
+|---|---|---|---|---|
+| billing | 38 | 0 | 0 | 0 |
+| delivery | 0 | 36 | 0 | 0 |
+| fraud | 11 | 0 | 23 | 0 |
+| technical | 10 | 0 | 0 | 29 |
+
+[Write 3-4 sentences in your own words: every error is a fraud ticket predicted as billing (11) or a technical ticket predicted as billing (10)... wait, check the matrix and describe it exactly. Then say the few-shot prompt costs about 2.4 times the tokens per ticket and is worth it here because fraud tickets are the most expensive to miss.]
+
+### Token budget and routing
+Before each model call the running total of `usage.total_tokens` is compared with `TOKEN_BUDGET`; if it is already at or above the budget, no call is made and the ticket gets `budget_exhausted` and goes to human review. With the zero-shot prompt and `TOKEN_BUDGET = 6000`, 6,023 tokens were spent and **51 tickets** were `budget_exhausted` (`outputs/triage_budget_demo.csv`).
+
+The final run (`outputs/triage_results.csv`, 164 rows) uses the few-shot prompt with `TOKEN_BUDGET = 100000`. Routing: skipped, long, invalid or budget-exhausted tickets go to `human_review` (NORMAL); fraud goes to `security_team` (HIGH); customers in the Premium segment from Part B go to `premium_desk` (HIGH); everyone else goes to `support_queue` (NORMAL). A customer not in the segment file counts as not premium.
+
+| Route | Tickets |
+|---|---|
+| support_queue | 102 |
+| security_team | 34 |
+| human_review | 17 |
+| premium_desk | 11 |
+
+### What is checked and what is not
+The pipeline checks personal data before every call, token counts and output format. A human still has to review the 17 `human_review` tickets, and the category of the 12 `classified_keyword` tickets was recovered from free text, not read from clean JSON.
 
 ## Part D: Policy RAG Assistant and Refund Agent
 

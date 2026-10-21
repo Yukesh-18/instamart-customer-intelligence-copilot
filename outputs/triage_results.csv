@@ -1,0 +1,165 @@
+ticket_id,customer_id,status,category,segment_name,priority,route,tokens_used
+T0024,C0486,classified_json,fraud,Dormant Low-Value,HIGH,security_team,139
+T0073,C0080,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,135
+T0095,C1087,classified_json,technical,Occasional Regulars,NORMAL,support_queue,137
+T0159,C1172,skipped_empty,,Frequent Everyday Shoppers,NORMAL,human_review,0
+T0080,C0910,classified_json,fraud,Occasional Regulars,HIGH,security_team,139
+T0124,C0139,classified_json,fraud,Frequent Everyday Shoppers,HIGH,security_team,139
+T0061,C0812,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,131
+T0118,C0355,classified_json,delivery,Frequent Everyday Shoppers,NORMAL,support_queue,134
+T0037,C1156,classified_json,billing,Premium Big-Spenders,HIGH,premium_desk,135
+T0002,C0881,classified_json,delivery,Occasional Regulars,NORMAL,support_queue,133
+T0163,C0322,flagged_long,,Frequent Everyday Shoppers,NORMAL,human_review,0
+T0031,C0958,classified_json,technical,Dormant Low-Value,NORMAL,support_queue,137
+T0047,C0756,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,126
+T0063,C0892,classified_json,technical,Occasional Regulars,NORMAL,support_queue,126
+T0121,C0852,classified_keyword,billing,Dormant Low-Value,NORMAL,support_queue,139
+T0139,C0829,classified_json,technical,Occasional Regulars,NORMAL,support_queue,142
+T0115,C1025,classified_json,technical,Occasional Regulars,NORMAL,support_queue,126
+T0123,C0674,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,126
+T0116,C0294,flagged_invalid_output,,Frequent Everyday Shoppers,NORMAL,human_review,139
+T0136,C0891,classified_json,fraud,Occasional Regulars,HIGH,security_team,133
+T0008,C1177,classified_json,fraud,Dormant Low-Value,HIGH,security_team,139
+T0102,C0985,classified_json,delivery,Occasional Regulars,NORMAL,support_queue,137
+T0072,C0218,classified_json,fraud,Frequent Everyday Shoppers,HIGH,security_team,139
+T0101,C1151,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,135
+T0059,C0764,classified_json,technical,Occasional Regulars,NORMAL,support_queue,126
+T0049,C0078,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,135
+T0153,C0150,classified_json,billing,Occasional Regulars,NORMAL,support_queue,131
+T0050,C0117,classified_keyword,delivery,Dormant Low-Value,NORMAL,support_queue,137
+T0147,C0125,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,137
+T0074,C1119,classified_json,delivery,Frequent Everyday Shoppers,NORMAL,support_queue,133
+T0156,C0328,classified_json,fraud,Occasional Regulars,HIGH,security_team,139
+T0145,C0751,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,135
+T0053,C0447,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,135
+T0134,C0608,classified_json,delivery,Dormant Low-Value,NORMAL,support_queue,137
+T0039,C0298,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,142
+T0016,C0962,flagged_invalid_output,,Occasional Regulars,NORMAL,human_review,139
+T0055,C1063,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,142
+T0130,C0692,classified_json,delivery,Dormant Low-Value,NORMAL,support_queue,137
+T0099,C1000,classified_json,technical,Premium Big-Spenders,HIGH,premium_desk,142
+T0062,C0403,classified_json,delivery,Occasional Regulars,NORMAL,support_queue,133
+T0013,C0507,classified_keyword,billing,Dormant Low-Value,NORMAL,support_queue,139
+T0137,C0978,classified_json,billing,Occasional Regulars,NORMAL,support_queue,135
+T0152,C0530,classified_json,fraud,Frequent Everyday Shoppers,HIGH,security_team,139
+T0144,C0521,classified_json,fraud,Occasional Regulars,HIGH,security_team,139
+T0094,C0863,classified_json,delivery,Occasional Regulars,NORMAL,support_queue,137
+T0021,C0909,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,131
+T0077,C0082,classified_json,billing,Premium Big-Spenders,HIGH,premium_desk,131
+T0036,C0173,classified_json,fraud,Frequent Everyday Shoppers,HIGH,security_team,139
+T0113,C0077,classified_json,billing,Dormant Low-Value,NORMAL,support_queue,131
+T0060,C0784,classified_json,fraud,Occasional Regulars,HIGH,security_team,139
+T0043,C0942,classified_json,technical,Premium Big-Spenders,HIGH,premium_desk,126
+T0048,C0733,classified_json,fraud,Occasional Regulars,HIGH,security_team,133
+T0154,C1071,flagged_invalid_output,,Occasional Regulars,NORMAL,human_review,137
+T0125,C1156,classified_keyword,billing,Premium Big-Spenders,HIGH,premium_desk,135
+T0146,C1024,classified_json,delivery,Premium Big-Spenders,HIGH,premium_desk,134
+T0107,C0783,classified_json,technical,Occasional Regulars,NORMAL,support_queue,126
+T0011,C0233,classified_json,technical,Occasional Regulars,NORMAL,support_queue,142
+T0017,C0028,classified_json,billing,Occasional Regulars,NORMAL,support_queue,135
+T0111,C1033,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,126
+T0041,C0464,classified_json,billing,Occasional Regulars,NORMAL,support_queue,135
+T0120,C0208,classified_json,fraud,Frequent Everyday Shoppers,HIGH,security_team,139
+T0122,C0404,classified_json,delivery,Occasional Regulars,NORMAL,support_queue,133
+T0001,C0851,classified_json,billing,Dormant Low-Value,NORMAL,support_queue,135
+T0064,C0848,classified_json,fraud,Occasional Regulars,HIGH,security_team,139
+T0092,C0585,classified_json,fraud,Frequent Everyday Shoppers,HIGH,security_team,133
+T0038,C0882,classified_json,delivery,Dormant Low-Value,NORMAL,support_queue,133
+T0155,C0285,classified_keyword,technical,Dormant Low-Value,NORMAL,support_queue,146
+T0104,C0815,classified_json,fraud,Occasional Regulars,HIGH,security_team,133
+T0012,C0335,classified_json,fraud,Premium Big-Spenders,HIGH,security_team,139
+T0084,C0569,flagged_invalid_output,,Occasional Regulars,NORMAL,human_review,139
+T0051,C1049,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,126
+T0143,C0339,classified_json,technical,Occasional Regulars,NORMAL,support_queue,142
+T0035,C1175,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,137
+T0028,C1036,classified_json,fraud,Occasional Regulars,HIGH,security_team,139
+T0100,C0754,classified_json,fraud,Occasional Regulars,HIGH,security_team,139
+T0022,C1160,classified_json,delivery,Occasional Regulars,NORMAL,support_queue,137
+T0082,C0168,classified_json,delivery,Frequent Everyday Shoppers,NORMAL,support_queue,133
+T0127,C0976,classified_json,technical,Occasional Regulars,NORMAL,support_queue,137
+T0162,C0665,flagged_long,,Premium Big-Spenders,NORMAL,human_review,0
+T0109,C1080,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,135
+T0046,C0442,classified_keyword,delivery,Occasional Regulars,NORMAL,support_queue,141
+T0081,C0559,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,135
+T0007,C0682,classified_json,technical,Premium Big-Spenders,HIGH,premium_desk,126
+T0068,C0208,classified_json,fraud,Frequent Everyday Shoppers,HIGH,security_team,139
+T0085,C0031,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,135
+T0075,C0901,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,142
+T0052,C1005,classified_json,fraud,Occasional Regulars,HIGH,security_team,139
+T0066,C1199,flagged_invalid_output,,Occasional Regulars,NORMAL,human_review,137
+T0151,C1011,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,126
+T0131,C0069,classified_json,technical,Dormant Low-Value,NORMAL,support_queue,126
+T0006,C0177,classified_json,delivery,Dormant Low-Value,NORMAL,support_queue,134
+T0135,C0303,classified_json,technical,Occasional Regulars,NORMAL,support_queue,137
+T0079,C1128,classified_json,technical,Occasional Regulars,NORMAL,support_queue,126
+T0040,C0256,classified_keyword,fraud,Frequent Everyday Shoppers,HIGH,security_team,143
+T0093,C0131,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,135
+T0089,C0860,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,131
+T0034,C1188,classified_json,delivery,Occasional Regulars,NORMAL,support_queue,137
+T0033,C0714,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,135
+T0160,C0670,skipped_empty,,Premium Big-Spenders,NORMAL,human_review,0
+T0087,C0797,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,142
+T0009,C0758,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,135
+T0108,C0340,classified_json,fraud,Dormant Low-Value,HIGH,security_team,139
+T0054,C0571,classified_json,delivery,Occasional Regulars,NORMAL,support_queue,134
+T0025,C0610,classified_json,billing,Dormant Low-Value,NORMAL,support_queue,135
+T0004,C0721,classified_json,fraud,Frequent Everyday Shoppers,HIGH,security_team,139
+T0148,C1057,flagged_invalid_output,,Frequent Everyday Shoppers,NORMAL,human_review,139
+T0088,C0852,classified_json,fraud,Dormant Low-Value,HIGH,security_team,133
+T0030,C0015,classified_keyword,delivery,Dormant Low-Value,NORMAL,support_queue,138
+T0067,C0704,classified_json,technical,Occasional Regulars,NORMAL,support_queue,126
+T0029,C0885,classified_json,billing,Occasional Regulars,NORMAL,support_queue,135
+T0129,C0237,classified_json,billing,Occasional Regulars,NORMAL,support_queue,135
+T0105,C0063,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,131
+T0045,C0628,classified_json,billing,Occasional Regulars,NORMAL,support_queue,135
+T0069,C0491,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,135
+T0010,C1190,classified_json,delivery,Frequent Everyday Shoppers,NORMAL,support_queue,134
+T0023,C0400,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,126
+T0106,C0197,classified_json,delivery,Frequent Everyday Shoppers,NORMAL,support_queue,134
+T0015,C0488,classified_json,technical,Premium Big-Spenders,HIGH,premium_desk,137
+T0091,C0796,classified_json,technical,Dormant Low-Value,NORMAL,support_queue,142
+T0126,C0996,classified_json,delivery,Premium Big-Spenders,HIGH,premium_desk,133
+T0096,C0324,classified_keyword,fraud,Premium Big-Spenders,HIGH,security_team,143
+T0149,C0770,classified_json,billing,Frequent Everyday Shoppers,NORMAL,support_queue,135
+T0070,C1150,flagged_invalid_output,,Frequent Everyday Shoppers,NORMAL,human_review,134
+T0026,C0677,classified_json,delivery,Dormant Low-Value,NORMAL,support_queue,134
+T0097,C0932,classified_json,billing,Dormant Low-Value,NORMAL,support_queue,131
+T0132,C0282,classified_json,fraud,Frequent Everyday Shoppers,HIGH,security_team,139
+T0027,C0232,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,137
+T0119,C0629,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,137
+T0157,C1107,skipped_empty,,Frequent Everyday Shoppers,NORMAL,human_review,0
+T0058,C0287,classified_json,delivery,Frequent Everyday Shoppers,NORMAL,support_queue,134
+T0110,C0056,classified_json,delivery,Occasional Regulars,NORMAL,support_queue,137
+T0018,C1135,classified_json,delivery,Frequent Everyday Shoppers,NORMAL,support_queue,134
+T0032,C1139,classified_json,fraud,Frequent Everyday Shoppers,HIGH,security_team,139
+T0003,C0591,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,126
+T0042,C0508,classified_keyword,delivery,Frequent Everyday Shoppers,NORMAL,support_queue,137
+T0056,C0140,classified_json,fraud,Frequent Everyday Shoppers,HIGH,security_team,139
+T0114,C0619,classified_json,delivery,Occasional Regulars,NORMAL,support_queue,133
+T0083,C0356,classified_json,technical,Dormant Low-Value,NORMAL,support_queue,126
+T0138,C0720,classified_json,delivery,Occasional Regulars,NORMAL,support_queue,134
+T0057,C1199,classified_json,billing,Occasional Regulars,NORMAL,support_queue,131
+T0076,C0418,flagged_invalid_output,,Dormant Low-Value,NORMAL,human_review,139
+T0019,C0579,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,142
+T0103,C0499,classified_json,technical,Occasional Regulars,NORMAL,support_queue,137
+T0164,C0794,flagged_long,,Occasional Regulars,NORMAL,human_review,0
+T0090,C0322,classified_json,delivery,Frequent Everyday Shoppers,NORMAL,support_queue,137
+T0112,C0432,classified_json,fraud,Frequent Everyday Shoppers,HIGH,security_team,139
+T0133,C0717,classified_json,billing,Premium Big-Spenders,HIGH,premium_desk,131
+T0014,C0579,classified_json,delivery,Frequent Everyday Shoppers,NORMAL,support_queue,134
+T0158,C1106,skipped_empty,,Dormant Low-Value,NORMAL,human_review,0
+T0020,C0460,classified_keyword,fraud,Frequent Everyday Shoppers,HIGH,security_team,143
+T0142,C0605,classified_json,delivery,Occasional Regulars,NORMAL,support_queue,137
+T0086,C1132,classified_json,delivery,Premium Big-Spenders,HIGH,premium_desk,133
+T0141,C0376,classified_json,billing,Occasional Regulars,NORMAL,support_queue,131
+T0044,C0862,classified_json,fraud,Premium Big-Spenders,HIGH,security_team,133
+T0117,C0465,classified_json,billing,Occasional Regulars,NORMAL,support_queue,131
+T0078,C0586,classified_json,delivery,Occasional Regulars,NORMAL,support_queue,133
+T0140,C1173,classified_json,fraud,Occasional Regulars,HIGH,security_team,139
+T0071,C0966,classified_json,technical,Frequent Everyday Shoppers,NORMAL,support_queue,142
+T0161,C0202,flagged_long,,Frequent Everyday Shoppers,NORMAL,human_review,0
+T0150,C0622,classified_json,delivery,Occasional Regulars,NORMAL,support_queue,133
+T0065,C0205,flagged_invalid_output,,Frequent Everyday Shoppers,NORMAL,human_review,135
+T0128,C0467,classified_json,fraud,Occasional Regulars,HIGH,security_team,133
+T0005,C0404,classified_json,billing,Occasional Regulars,NORMAL,support_queue,131
+T0098,C0343,classified_keyword,delivery,Occasional Regulars,NORMAL,support_queue,137
