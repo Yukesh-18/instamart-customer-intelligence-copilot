@@ -252,4 +252,16 @@ Four executions in total, none repeated, and the final status is REFUND with INR
 
 ## Limitations and Next Steps
 
-_To be completed after Parts B to D._
+**Limitations**
+- **The Premium flag is a post-hoc, whole-window label.** It comes from RFM computed over the whole window, including September, which is the month that defines the lapse label. So the retention list is illustrative and is not a leakage-free evaluation. The lapse model's own features use only orders before 2025-09-01, and segment labels were not used as features.
+- **The data is synthetic.** Customers were generated from three simple behaviour types, so the clean segments and the 100% few-shot accuracy are easier than real data would be.
+- **The language model is a mock.** `mock_llm.py` matches keywords and fails on a fixed schedule, so the accuracy and token numbers show how the pipeline behaves and do not predict a real model's quality.
+- **Retrieval matches words, not meaning.** TF-IDF can miss a question phrased with different words, and the 40-word chunks can split a sentence (shown by the zero-overlap run).
+- **Only 12 policy questions were evaluated, and the test set for the lapse model has 232 rows,** so small differences between models (for example F1 0.62 versus 0.66) are not strong evidence.
+- **Human review is still needed** for the tickets routed to `human_review`, for refunds above INR 1000, and for every `FALLBACK_*` outcome.
+
+**Next steps**
+- Check the lapse model with a time-based split and add a probability-threshold choice based on the rupee cost of a missed customer versus a wasted offer.
+- Replace the keyword mock with a real model behind the same `chat` interface, and re-measure accuracy and cost per ticket.
+- Use better retrieval (sentence-aware chunks, or embeddings) and a larger question set.
+- Add a human-approval queue and an audit dashboard for the refund ledger.
