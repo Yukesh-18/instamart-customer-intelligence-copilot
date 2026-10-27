@@ -201,7 +201,54 @@ The pipeline checks personal data before every call, token counts and output for
 
 ## Part D: Policy RAG Assistant and Refund Agent
 
-_In progress._
+### Chunking, retrieval and grounding
+The five policy files are split into chunks of 40 words with an overlap of 10 (stepping 30 words), stopping after the first chunk that reaches the last word: 15 chunks in total (refund 4, delivery 3, escalation 3, payment 3, privacy 2). Retrieval uses `TfidfVectorizer` fitted on the chunk texts and `cosine_similarity`, and `retrieve(query, k=3)` returns the source, score and text. For `refund policy late delivery` the top three chunks all come from `refund_policy.txt`.
+
+[Write 2 sentences: TF-IDF weights a word by how often it is in a chunk (TF) and how rare it is across chunks (IDF). One limitation: it matches words, not meaning, so two phrasings of the same idea can score low.]
+
+`answer(question)` retrieves three chunks and sends two messages to `mock_llm.chat`: a system message containing POLICY ASSISTANT, and a user message of the form `CONTEXT:` newline, the three chunks each prefixed with `[source file name]` on its own line, newline `QUESTION:` newline, the question.
+
+| Evaluation | Overlap 10 | Overlap 0 |
+|---|---|---|
+| Answerable (12): expected doc in top 3 | 12/12 | 12/12 |
+| Answerable (12): expected fact in answer | 12/12 | 10/12 |
+| Unanswerable (2): fallback "I could not find..." | 2/2 | 2/2 |
+
+With overlap 0 two answers break. For "What delivery time makes a completed order eligible for a full refund?" the answer came back as `receives a full refund of the order amount.` and lost "more than 45 minutes". The sentence is split across the boundary between two chunks, so the fact sits in a different chunk from the rest of the sentence. The 10-word overlap repeats those words in both chunks.
+
+### Tools and agent
+Five tools are described in `TOOLS_SPEC` (JSON-schema style) and run through `TOOL_MAP`: `get_order` (reads `data/instamart.db`), `search_policy` (uses my retrieval), `calculate_refund` (100% of the order amount if delivery took more than 45 minutes, otherwise 0), `issue_refund` and `escalate_to_human` (each appends a timestamped line with the tool name to `outputs/refund_ledger.jsonl`). Both ledger tools skip a second write for the same order, so a repeated tool call cannot refund twice.
+
+`run_agent` is a ReAct loop (max 6 iterations, token limit 6000, time limit 10 s). The final status is the word before the colon in the final answer.
+
+| Scenario | Status | Refund (INR) | Model calls | Tokens |
+|---|---|---|---|---|
+| S1 | REFUND | 128.25 | 5 | 1037 |
+| S2 | REFUND | 135.00 | 5 | 1037 |
+| S3 | ESCALATE | 1999.00 | 5 | 1024 |
+| S4 | DENIED | 0.00 | 4 | 717 |
+| S5 | DENIED | 0.00 | 3 | 421 |
+| S6 | NOT_FOUND | 0.00 | 2 | 128 |
+| S7 | FALLBACK_MAX_ITERATIONS | 0.00 | 6 | 3168 |
+
+### Stopping safely
+Fallbacks return the steps so far and a short human-handoff summary.
+- S7 hits the iteration limit (`FALLBACK_MAX_ITERATIONS`, 6 model calls, 3168 tokens, under the 6000 limit).
+- Demo, S1 with `token_limit=200`: `FALLBACK_TOKEN_LIMIT` after 438 tokens; tools run before stopping: `get_order`, `search_policy`; the tool requested by the call that broke the limit was not run.
+- Demo, S1 with `time_limit_seconds=0`: `FALLBACK_TIMEOUT` with 0 model calls.
+
+### Crash and resume
+After every tool observation, a checkpoint with the run id, scenario id, full messages, tokens and executed tools is written to `state/`. For S1 I raised a simulated crash right after the second tool execution, then called `resume_agent`.
+
+| Phase | Tools executed |
+|---|---|
+| Before the crash | get_order, search_policy |
+| After resume | calculate_refund, issue_refund |
+
+Four executions in total, none repeated, and the final status is REFUND with INR 128.25.
+
+### ReAct versus plan-and-execute
+[Write at most 250 words. Include these measured ReAct numbers: S1 5 model calls, S5 3 calls, S6 2 calls. Make clear that the plan-and-execute numbers are estimates, since I did not build that agent. See the notes I gave you.]
 
 ## Limitations and Next Steps
 

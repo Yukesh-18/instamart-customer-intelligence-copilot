@@ -1,0 +1,165 @@
+{
+ "run_id": "S1-crash-demo",
+ "scenario_id": "S1",
+ "user_message": "My order ORD-100048 reached me very late. I would like a refund.",
+ "messages": [
+  {
+   "role": "system",
+   "content": "You are a refund AGENT for a quick-commerce support desk. Use the tools get_order, search_policy, calculate_refund, issue_refund and escalate_to_human. Finish with one line that starts with REFUND:, ESCALATE:, DENIED: or NOT_FOUND:."
+  },
+  {
+   "role": "user",
+   "content": "My order ORD-100048 reached me very late. I would like a refund."
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "tool_calls": [
+    {
+     "id": "call_1",
+     "name": "get_order",
+     "arguments": {
+      "order_id": "ORD-100048"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_1",
+   "name": "get_order",
+   "content": "{\"order_id\": \"ORD-100048\", \"status\": \"completed\", \"order_amount\": 128.25, \"delivery_minutes\": 65.0}"
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "tool_calls": [
+    {
+     "id": "call_2",
+     "name": "search_policy",
+     "arguments": {
+      "query": "refund policy late delivery"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_2",
+   "name": "search_policy",
+   "content": "{\"results\": [{\"source\": \"refund_policy.txt\", \"score\": 0.2719, \"text\": \"order is delivered in more than 45 minutes, the customer receives a full refund of the order amount. If a completed order is delivered in 45 minutes or less, no late-delivery refund is paid. Refunds up to INR 1000 are\"}, {\"source\": \"refund_policy.txt\", \"score\": 0.2514, \"text\": \"Refund Policy. A refund can be requested only for orders whose status is completed. Orders with status cancelled were never charged, so no refund applies to them. If a completed order is delivered in more than 45 minutes, the customer\"}, {\"source\": \"refund_policy.txt\", \"score\": 0.2454, \"text\": \"late-delivery refund is paid. Refunds up to INR 1000 are approved automatically by the support system. A refund above INR 1000 must be approved by a human support lead before money is returned. Approved refunds are credited to the original\"}]}"
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "tool_calls": [
+    {
+     "id": "call_3",
+     "name": "calculate_refund",
+     "arguments": {
+      "order_amount": 128.25,
+      "delivery_minutes": 65.0
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_3",
+   "name": "calculate_refund",
+   "content": "{\"refund_inr\": 128.25}"
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "tool_calls": [
+    {
+     "id": "call_4",
+     "name": "issue_refund",
+     "arguments": {
+      "order_id": "ORD-100048",
+      "refund_inr": 128.25
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_4",
+   "name": "issue_refund",
+   "content": "{\"refund_inr\": 128.25}"
+  }
+ ],
+ "tokens_used": 733,
+ "llm_calls": 4,
+ "steps": [
+  {
+   "tool": "get_order",
+   "arguments": {
+    "order_id": "ORD-100048"
+   },
+   "observation": {
+    "order_id": "ORD-100048",
+    "status": "completed",
+    "order_amount": 128.25,
+    "delivery_minutes": 65.0
+   }
+  },
+  {
+   "tool": "search_policy",
+   "arguments": {
+    "query": "refund policy late delivery"
+   },
+   "observation": {
+    "results": [
+     {
+      "source": "refund_policy.txt",
+      "score": 0.2719,
+      "text": "order is delivered in more than 45 minutes, the customer receives a full refund of the order amount. If a completed order is delivered in 45 minutes or less, no late-delivery refund is paid. Refunds up to INR 1000 are"
+     },
+     {
+      "source": "refund_policy.txt",
+      "score": 0.2514,
+      "text": "Refund Policy. A refund can be requested only for orders whose status is completed. Orders with status cancelled were never charged, so no refund applies to them. If a completed order is delivered in more than 45 minutes, the customer"
+     },
+     {
+      "source": "refund_policy.txt",
+      "score": 0.2454,
+      "text": "late-delivery refund is paid. Refunds up to INR 1000 are approved automatically by the support system. A refund above INR 1000 must be approved by a human support lead before money is returned. Approved refunds are credited to the original"
+     }
+    ]
+   }
+  },
+  {
+   "tool": "calculate_refund",
+   "arguments": {
+    "order_amount": 128.25,
+    "delivery_minutes": 65.0
+   },
+   "observation": {
+    "refund_inr": 128.25
+   }
+  },
+  {
+   "tool": "issue_refund",
+   "arguments": {
+    "order_id": "ORD-100048",
+    "refund_inr": 128.25
+   },
+   "observation": {
+    "refund_inr": 128.25
+   }
+  }
+ ],
+ "executed": [
+  "get_order",
+  "search_policy",
+  "calculate_refund",
+  "issue_refund"
+ ],
+ "limits": {
+  "max_iterations": 6,
+  "token_limit": 6000,
+  "time_limit_seconds": 10
+ }
+}
